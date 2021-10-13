@@ -1,6 +1,6 @@
 Icon Resource for Combat Parameter mods, notably <enemycombat parameters> and <player and party combat parameters>
 
-
+All icons included are from free to use resources.
 Two icon packs are here. Vanilla and Legends.
 
 Vanilla contains icons that are in line with the vanilla look and come from elderscrolls.fandom
@@ -9,9 +9,11 @@ Legends contains icons from card art in the elder scrolls legends.
 
 
 Credits:
-All vanilla icons come from the elderscrolls fandom wiki and are licensed under cc sa. The following icons were scrapped:
+All vanilla npc + race + faction icons come from the elderscrolls fandom wiki and are licensed under cc sa. The following icons were scrapped:
 
-All legends icons from the the elderscrolls legends fandom wiki and are licensed under cc. The following icons were scrapped.
+All legends icons exluding the generic icons from the the elderscrolls legends fandom wiki and are licensed under cc. The following icons were scrapped.
+All generic legends icons com from uesp.net
+Noggog for mutagen which made it easy to loop and classify vanilla npcs/races and determine which images to grab.
 
 
 Creating your own icon pack:
@@ -39,7 +41,7 @@ Creating your own icon pack:
 	
 TroubleShooting:
 	1. Icons in game continously loop.
-	    There is some mismatch between framelabels in the swf and ones declared in the ini. Doublecheck and correct this.
+	    There is some mismatch between framelabels in the swf and ones declared in the ini. Doublecheck and correct this. If it comes from a pack included here please post which enemy/follower it occurred on along with their race, name, and faction.
 	2. Icons are blank.
 		You did not follow Step 6.
 	
