@@ -1,7 +1,7 @@
 Icon Resource for Combat Parameter mods, notably <enemycombat parameters> and <player and party combat parameters>
 
 All icons included are from free to use resources.
-Two icon packs are here. Vanilla and Legends.
+Two icon packs are available on this . Vanilla and Legends.
 
 Vanilla contains icons that are in line with the vanilla look and come from elderscrolls.fandom
 Legends contains icons from card art in the elder scrolls legends.
@@ -14,6 +14,8 @@ All vanilla npc + race + faction icons come from the elderscrolls fandom wiki an
 All legends icons exluding the generic icons from the the elderscrolls legends fandom wiki and are licensed under cc. The following icons were scrapped.
 All generic legends icons com from uesp.net
 Noggog for mutagen which made it easy to loop and classify vanilla npcs/races and determine which images to grab.
+
+In game Icons are loaded by the following prioty(match): Name, faction, race, ->default
 
 
 Creating your own icon pack:
