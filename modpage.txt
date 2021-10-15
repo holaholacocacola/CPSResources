@@ -21,23 +21,27 @@ Creating your own icon pack:
 	Needed. Copy of flash cs6. Don't ask me where to get it.
 	
 	1. Grab the template file.
-	2. Preprep the icons you want to use. Make sure they are 50x50
+	2. Preprep the icons you want to use. Make sure they are 75x75
 	3. Open the template file in cs6.
 	4. Under File->Import, select Import to Library.
 	5. In your library tab select all the images that you imported and click on properties.
 	6. Set compression to png and enable smoothing. This is a mandatory step as any other compression will not let them load.
-	7. Save your file.
-	8. Drag your icon to the next empty frame on the icons layer(frame 1).
-	9. On the labels layer insert a name for the frame. 
+	7. Save your file.(Rename it to somehthing else)
+	8. Now begin populating the timeline.
+		Drag an icon to the next empty frame on the icons layer(frame 1).
+	9. On the labels layer above the frame where you dragged the icon, insert a name for the frame. 
 		If making a race pack the name should be the editorId of the race.
 		If making a npc pack, the name should be the FULL name of the npc in xedit.
 		If making a faction pack, the name should be the FULL name of the faction in xedit. If the FULL name is empty and it is from one of the vanilla masters, then use the form id instead(e.g 0x1234567)
-	10. Repeat steps 8 and 9 for all icons you wish to add.
-	11. Compile the file. )alt shift + f12 and make sure there are no errors. Name your file something unique so as to not override the ones provided here.
+		If making a player pack, name it something unique. Preferable follow the preexisting naming convention <RaceType>(#) eg. DarkElfSeducer01
+	10. Repeat steps 8 and 9 for all icons you wish to add.(Go to the next empty frame and repeat the process)
+	11. Compile the file. )alt shift + f12 and make sure there are no errors. Name your file something unique so as to not override the ones provided here unless you are making a replacer.
 	12. Create the ini. Add a line entry with the name of every frame label you created. The ini should have the same name as your compiled swf.
-	13. Move the swf and ini to the appropriate directory to test. If it is a race move it to cps/races. Factions go to cps/factions. Npcs go to npcs/factions.
+	13. Move the swf and ini to the appropriate directory to test. If it is a race move it to cps/races. Factions go to cps/factions. Npcs go to npcs/factions.player goes to player/generic(gender agnostic), player/male, player/female
 	14. Test in game.
 	
+	
+	https://skyrim.fandom.com/wiki/User:Game_widow for all npc images. seriously kudos to this user.
 	
 TroubleShooting:
 	1. Icons in game continously loop.
