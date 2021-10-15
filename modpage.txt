@@ -41,7 +41,11 @@ Creating your own icon pack:
 	14. Test in game.
 	
 	
-	https://skyrim.fandom.com/wiki/User:Game_widow for all npc images. seriously kudos to this user.
+	
+	https://skyrim.fandom.com/wiki/User:Game_widow for all vanilla npc(https://skyrim.fandom.com/wiki/Category:NPC_images), racial(https://skyrim.fandom.com/wiki/Category:Creature_images), and faction images(https://skyrim.fandom.com/wiki/Category:Misc_item_images). seriously kudos to this user. licensed under cc3
+	https://elderscrolls.fandom.com/wiki/
+						creatures(https://elderscrolls.fandom.com/wiki/Creatures_(Legends))races(https://elderscrolls.fandom.com/wiki/Races_(Legends)) and faction(https://elderscrolls.fandom.com/wiki/Items_(Legends)) 
+	Posted by the following users (https://elderscrolls.fandom.com/wiki/User:Flightmare, https://elderscrolls.fandom.com/wiki/User:Yumyum36, https://elderscrolls.fandom.com/wiki/User:Rupuzioks, https://elderscrolls.fandom.com/wiki/User:Raylan13, https://elderscrolls.fandom.com/wiki/User:GreyFox06)
 	
 TroubleShooting:
 	1. Icons in game continously loop.
