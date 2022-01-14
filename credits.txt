@@ -1,0 +1,59 @@
+game-icons
+	classes:
+		Archer                       : 
+			ClassAlterationMageDelapouite: 
+			ClassApothecary              : Darkzaitzev
+			ClassArcher                  : 
+			ClassAssassinLorc            : 
+			ClassBarbarian               : Delapuite
+			ClassBard                    : Delapouite
+			ClassBattlemage              : Lorc
+			ClassBeggar                  : Delapouite
+			ClassBerserker               : Lorc
+			ClassBlacksmith              : Delapouite
+			ClassChaurus                 : Lorc
+			ClassCitizen                 : Delapouite
+			ClassConjurer                : Delapouter
+			ClassCrusader                : Delapouite
+			ClassDeathHound              : Lorc
+			ClassDestructonMage          : Lorc
+			ClassDragon                  : Delapouite
+			ClassDragonPriest            : 
+			ClassDuelist                 : Skoll
+			ClassDwarvenCenturion        : Delapouite
+			ClassDwarvenSphere           : Delapouite
+			ClassEnchanter               : Delapouite
+			ClassFalmer                  : Delapouite
+			ClassFighter                 : Delapouite
+			ClassFoodVendor              : Lorc
+			ClassGargoyle                : Delapouite
+			ClassGiant                   : Delapouite
+			ClassHagraven                : Cathelineau
+			ClassHealer                  : Delapouite
+			ClassHorse                   : Delapouite
+			ClassIceWraith               : Lorc
+			ClassIceWraith2              : Lorc
+			ClassIllusionist             : Delapouite
+			ClassKnight                  : Lorc
+			ClassLurker                  : Lorc
+			ClassMammoth                 : Delapouite
+			ClassMiner                   : Delapouite
+			ClassMonk                    : Delapouite
+			ClassMudCrab                 : Lorc
+			ClassNightBlade              : Lorc
+			ClassPredator                : Skoll
+			ClassPrey                    : Delapouite
+			ClassRanger                  : Lorc
+			ClassRogue                   : Lorc
+			ClassScout                   : 
+			ClassSorcerer                : 
+			ClassSpellsword              : Lorc
+			ClassSpider                  : Skoll
+			ClassTank                    : Delapouite
+			ClassThief                   : Delapouite
+			ClassThief                   : Lorc
+			ClassWarmonger               : Delapouite
+			ClassWarrior                 : Delapouite
+			ClassWarrior                 : Lorc
+			ClassWItchblade              : Lorc
+			ClassWizard                  : Lorc
