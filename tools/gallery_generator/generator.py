@@ -3,6 +3,8 @@ import os
 import sys
 
 from PIL import Image
+from PIL import ImageDraw
+from PIL import ImageFont
 
 IMAGE_FORMATS = {'.png', '.jpg', '.jpeg'}
 
@@ -54,6 +56,9 @@ def main():
         return
     print (images)
     output_image = Image.new('RGB', (args.width_out, args.height_out))
+    image_drawer = ImageDraw.Draw(output_image)
+    image_font = ImageFont.truetype("arial.ttf", 14)
+    image_font_color = (255, 255, 255)
     image_iter = iter(images)
     exhausted = False
 
@@ -70,6 +75,8 @@ def main():
                 with Image.open(next_image_path) as im:
                     im.thumbnail((args.sub_width, args.sub_height))
                     output_image.paste(im, (x, y))
+                    image_name = os.path.splitext(os.path.basename(next_image_path))[0]
+                    image_drawer.text( (x, y + 4 + args.sub_height), image_name, image_font_color, font=image_font)
             except Exception as e:
                 print (f"Error occurred pasting image {next_image_path}: {e}")
         
@@ -77,19 +84,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-#opens an image:
-#im = Image.open("1_tree.jpg")
-#creates a new empty image, RGB mode, and size 400 by 400.
-#new_im = Image.new('RGB', (400,400))
-
-#Here I resize my opened image, so it is no bigger than 100,100
-#im.thumbnail((100,100))
-#Iterate through a 4 by 4 grid with 100 spacing, to place my image
-#for i in xrange(0,500,100):
-#    for j in xrange(0,500,100):
-        #I change brightness of the images, just to emphasise they are unique copies.
-#        im=Image.eval(im,lambda x: x+(i+j)/30)
-        #paste the image at location i,j:
-#        new_im.paste(im, (i,j))
-
-#new_im.show()
