@@ -7,6 +7,7 @@ from PIL import ImageDraw
 from PIL import ImageFont
 
 IMAGE_FORMATS = {'.png', '.jpg', '.jpeg'}
+REPLACE_KEYS = {'Class', 'Faction', 'Race'}
 
 """
 Example usage:
@@ -28,6 +29,9 @@ def main():
     parser.add_argument("--sub_height", help="Height of sub image in px", type=int, required=True)
     parser.add_argument("--width_buffer", help="Horizontal spacing between images", type=int)
     parser.add_argument("--height_buffer", help="Vertical spacing between images", type=int)
+    parser.add_argument("--font_size", help="Size of font text", type=int, default=14)
+    parser.add_argument("--strip_pattern", help="Removes pattern from display text", type=str, default="")
+
 
     args = parser.parse_args()
     err_stack = []
@@ -57,7 +61,7 @@ def main():
     print (images)
     output_image = Image.new('RGB', (args.width_out, args.height_out))
     image_drawer = ImageDraw.Draw(output_image)
-    image_font = ImageFont.truetype("arial.ttf", 14)
+    image_font = ImageFont.truetype("arial.ttf", args.font_size)
     image_font_color = (255, 255, 255)
     image_iter = iter(images)
     exhausted = False
@@ -75,7 +79,7 @@ def main():
                 with Image.open(next_image_path) as im:
                     im.thumbnail((args.sub_width, args.sub_height))
                     output_image.paste(im, (x, y))
-                    image_name = os.path.splitext(os.path.basename(next_image_path))[0]
+                    image_name = os.path.splitext(os.path.basename(next_image_path))[0].replace(args.strip_pattern, "")
                     image_drawer.text( (x, y + 4 + args.sub_height), image_name, image_font_color, font=image_font)
             except Exception as e:
                 print (f"Error occurred pasting image {next_image_path}: {e}")
