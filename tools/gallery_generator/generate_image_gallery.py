@@ -7,11 +7,11 @@ from PIL import ImageDraw
 from PIL import ImageFont
 
 IMAGE_FORMATS = {'.png', '.jpg', '.jpeg'}
-REPLACE_KEYS = {'Class', 'Faction', 'Race'}
+FONT_TYPE = 'arial.ttf'
 
 """
 Example usage:
-python generator.py --files_path ../../assets/vanilla/classes/zoomed/ --output_path "../" --image_name "My name" --height_out 1080 --width_out 1920 --sub_width 75 --sub_height 75 --width_buffer 25 --height_buffer 25
+python generator.py --files_path ../../assets/vanilla/classes/zoomed/ --height_out 1080 --width_out 1920 --sub_width 75 --sub_height 75 --width_buffer 60 --height_buffer 40 --strip_pattern Class --outfile ../../dist/vanilla_class_out.png
 
 """
 
@@ -21,8 +21,7 @@ def main():
     parser = argparse.ArgumentParser(description=text, usage = "generate[options]")
     # Lots of args so add as 'optional' but make them required
     parser.add_argument("--files_path", help="Path to folder of images to generate gallery for", type=str, required=True)
-    parser.add_argument("--output_path", help="Path to output image", type=str, required=True)
-    parser.add_argument("--image_name", help="Name of image output. If multiple are generated and int will be appended", type=str, required=True)
+    parser.add_argument("--outfile", help="Path to output image", type=str, required=True)
     parser.add_argument("--height_out", help="Height of output image in px", type=int, required=True)
     parser.add_argument("--width_out", help="Width of output image in px", type=int, required=True)
     parser.add_argument("--sub_width", help="Width of sub images image in px", type=int, required=True)                                    
@@ -30,7 +29,7 @@ def main():
     parser.add_argument("--width_buffer", help="Horizontal spacing between images", type=int)
     parser.add_argument("--height_buffer", help="Vertical spacing between images", type=int)
     parser.add_argument("--font_size", help="Size of font text", type=int, default=14)
-    parser.add_argument("--strip_pattern", help="Removes pattern from display text", type=str, default="")
+    parser.add_argument("--strip_pattern", help="Removes pattern from image names", type=str, default="")
 
 
     args = parser.parse_args()
@@ -41,8 +40,8 @@ def main():
         err_stack.append("One or more invalid dimensions provided")
     if args.width_out < args.sub_width or args.height_out < args.sub_height:
         err_stack.append("Output image dimensions cannot be smaller than sub image dimensions")
-    if not args.image_name:
-        args.image_name = "unnamed"
+    if not args.outfile:
+        err_stack.append("No output file specified")
     if args.width_buffer < 0 or args.height_buffer < 0:
         err_stack.append("Buffer dimensions are invalid")
     if args.height_out < 0 or args.width_out < 0 or args.sub_width < 0 or args.sub_height < 0:
@@ -61,7 +60,7 @@ def main():
     print (images)
     output_image = Image.new('RGB', (args.width_out, args.height_out))
     image_drawer = ImageDraw.Draw(output_image)
-    image_font = ImageFont.truetype("arial.ttf", args.font_size)
+    image_font = ImageFont.truetype(FONT_TYPE, args.font_size) # This can throw depending on your system
     image_font_color = (255, 255, 255)
     image_iter = iter(images)
     exhausted = False
@@ -84,7 +83,7 @@ def main():
             except Exception as e:
                 print (f"Error occurred pasting image {next_image_path}: {e}")
         
-    output_image.save("test.png")
+    output_image.save(args.outfile)
 
 if __name__ == "__main__":
     main()
