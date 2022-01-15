@@ -6,6 +6,12 @@ from PIL import Image
 
 IMAGE_FORMATS = {'.png', '.jpg', '.jpeg'}
 
+"""
+Example usage:
+python generator.py --files_path ../../assets/vanilla/classes/zoomed/ --output_path "../" --image_name "My name" --height_out 1080 --width_out 1920 --sub_width 75 --sub_height 75 --width_buffer 25 --height_buffer 25
+
+"""
+
 def main():
     text = "Generic tool for creating an image gallery"
 
