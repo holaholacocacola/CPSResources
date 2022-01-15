@@ -56,11 +56,12 @@ def main():
     output_image = Image.new('RGB', (args.width_out, args.height_out))
     image_iter = iter(images)
     exhausted = False
-    for x in range(args.width_buffer, args.width_out, args.sub_width + args.width_buffer):
+
+    for y in range(args.height_buffer, args.height_out, args.sub_height + args.height_buffer):
         if exhausted:
             print ("No more images remaining")
             break
-        for y in range(args.height_buffer, args.height_out, args.sub_height + args.width_buffer):
+        for x in range(args.width_buffer, args.width_out, args.sub_width + args.width_buffer):
             next_image_path = next(image_iter, None)
             if next_image_path is None:
                 exhausted = True
