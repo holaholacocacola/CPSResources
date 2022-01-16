@@ -29,6 +29,7 @@ def main():
     parser.add_argument("--width_buffer", help="Horizontal spacing between images", type=int)
     parser.add_argument("--height_buffer", help="Vertical spacing between images", type=int)
     parser.add_argument("--font_size", help="Size of font text", type=int, default=14)
+    parser.add_argument("--disable_text", help=" The name of an image will not be written below it", action="store_true")
     parser.add_argument("--strip_pattern", help="Removes pattern from image names", type=str, default="")
 
 
@@ -57,7 +58,7 @@ def main():
     except Exception as e:
         print (f"Error encountered sifting images most likely due to no extension: {e}")
         return
-    print (images)
+    # print (images)
     output_image = Image.new('RGB', (args.width_out, args.height_out))
     image_drawer = ImageDraw.Draw(output_image)
     image_font = ImageFont.truetype(FONT_TYPE, args.font_size) # This can throw depending on your system
@@ -67,7 +68,7 @@ def main():
 
     for y in range(args.height_buffer, args.height_out, args.sub_height + args.height_buffer):
         if exhausted:
-            print ("No more images remaining")
+            # print ("No more images remaining")
             break
         for x in range(args.width_buffer, args.width_out, args.sub_width + args.width_buffer):
             next_image_path = next(image_iter, None)
@@ -79,11 +80,14 @@ def main():
                     im.thumbnail((args.sub_width, args.sub_height))
                     output_image.paste(im, (x, y))
                     image_name = os.path.splitext(os.path.basename(next_image_path))[0].replace(args.strip_pattern, "")
-                    image_drawer.text( (x, y + 4 + args.sub_height), image_name, image_font_color, font=image_font)
+                    if not args.disable_text:
+                        image_drawer.text( (x, y + 4 + args.sub_height), image_name, image_font_color, font=image_font)
             except Exception as e:
                 print (f"Error occurred pasting image {next_image_path}: {e}")
         
     output_image.save(args.outfile)
+    print (f"Successfully wrote {args.outfile}")
+
 
 if __name__ == "__main__":
     main()
