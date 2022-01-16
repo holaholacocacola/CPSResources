@@ -45,7 +45,7 @@ game-icons
 		ClassPrey                    : https://game-icons.net/1x1/delapouite/barn.html
 		ClassRanger                  : https://game-icons.net/1x1/lorc/bowman.html
 		ClassRogue                   : https://game-icons.net/1x1/lorc/crossed-swords.html
-		ClassScout                   : 
+		ClassScout                   : https://freeicons.io/free-icons-pack/assassin-creed-killer-medieval-ranger-rogue-scout-icon-71305
 		ClassSorcerer                : https://game-icons.net/1x1/delapouite/warlock-eye.html
 		ClassSpellsword              : https://game-icons.net/1x1/lorc/black-hand-shield.html
 		ClassSpider                  : https://game-icons.net/1x1/skoll/long-legged-spider.html

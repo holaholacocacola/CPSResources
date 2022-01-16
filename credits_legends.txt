@@ -7,52 +7,52 @@ ClassBard            : https://elderscrolls.fandom.com/wiki/Lute_(Legends)
 ClassBattleMage      : https://elderscrolls.fandom.com/wiki/Spirit_Knife_(Legends)
 ClassBeggar          : https://elderscrolls.fandom.com/wiki/Beggars_(Skyrim)?file=Beggar_concept_art.jpg
 ClassBlackSmith      : https://elderscrolls.fandom.com/wiki/Crucible_Blacksmith
-ClassChaurus         : 
-ClassChaurusFlyer    : 
+ClassChaurus         : https://elderscrolls.fandom.com/wiki/Chaurus_(Card)
+ClassChaurusFlyer    : https://elderscrolls.fandom.com/wiki/Chaurus_(Card)
 ClassCitizen         : 
 ClassConjurer        : https://elderscrolls.fandom.com/wiki/Dark_Rebirth
 ClassCrusader        : https://elderscrolls.fandom.com/wiki/Piercing_Javelin_(Legends)
-ClassDeathHound      : 
+ClassDeathHound      : https://elderscrolls.fandom.com/wiki/Death_Hound_(Legends)
 ClassDestructionMage : https://elderscrolls.fandom.com/wiki/Alfe_Fyr_(Legends)
 ClassDragon          : https://elderscrolls.fandom.com/wiki/Echo_of_Akatosh
-ClassDragonPriest    : 
+ClassDragonPriest    : https://elderscrolls.fandom.com/wiki/Hallowed_Deathpriest
 ClassDuelist         : https://elderscrolls.fandom.com/wiki/Dagoth_Dagger_(Legends)
-ClassDwarvenCenturion: 
-ClassDwarvenSphere   : 
+ClassDwarvenCenturion: https://elderscrolls.fandom.com/wiki/Dwarven_Centurion_(Legends)
+ClassDwarvenSphere   : https://elderscrolls.fandom.com/wiki/Dwarven_Sphere_(Legends)
 ClassEnchanter       : https://elderscrolls.fandom.com/wiki/Crystal_Tower_Crafter
-ClassFalmer          :
-ClassFalmerShaman    :
+ClassFalmer          : https://elderscrolls.fandom.com/wiki/Falmer_(Legends)
+ClassFalmerShaman    : https://elderscrolls.fandom.com/wiki/Shadowmaster
 ClassFighter         : https://elderscrolls.fandom.com/wiki/Ayrenn,_Dominion_Queen
-ClassFoodVendor      :
-ClassGargoyle        :
-ClassGiant           :
-ClassHagraven        :
+ClassFoodVendor      : https://elderscrolls.fandom.com/wiki/Cheesemancer
+ClassGargoyle        : https://elderscrolls.fandom.com/wiki/Gargoyle_(Card)
+ClassGiant           : https://elderscrolls.fandom.com/wiki/Belligerent_Giant
+ClassHagraven        : https://en.uesp.net/wiki/File:ON-creature-Crow_Mother.jpg
 ClassHealer          : https://elderscrolls.fandom.com/wiki/Studium_Headmaster
 ClassHorse           :
 ClassIceWraith       : https://elderscrolls.fandom.com/wiki/Ice_Wraith_(Legends)
 ClassIllusionist     : https://elderscrolls.fandom.com/wiki/Manic_Jack
 ClassKnight          : https://elderscrolls.fandom.com/wiki/Steel_Sword_(Legends)
 ClassLurker          :
-ClassMammoth         :
-ClassMiner           :
-ClassMonk            :
-ClassMudCrab         :
+ClassMammoth         : https://elderscrolls.fandom.com/wiki/Stonehill_Mammoth
+ClassMiner           : https://en.uesp.net/wiki/File:LG-cardart-Mine_Cart.png
+ClassMonk            : https://elderscrolls.fandom.com/wiki/Blind_Moth_Priest_(Legends)
+ClassMudCrab         : https://elderscrolls.fandom.com/wiki/Enraged_Mudcrab
 ClassNightblade      : https://elderscrolls.fandom.com/wiki/Daedric_Dagger_(Legends)
 ClassNone            :
 ClassPredator        : https://elderscrolls.fandom.com/wiki/Pit_Lion
-ClassPrey            :
+ClassPrey            : https://en.uesp.net/wiki/Legends:Thornwell_Farm
 ClassRanger          : https://elderscrolls.fandom.com/wiki/Assassin%27s_Bow
-ClassRogue           :
+ClassRogue           : https://elderscrolls.fandom.com/wiki/Hlaalu_Oathman
 ClassScout           : https://elderscrolls.fandom.com/wiki/Scout%27s_Report
-ClassSorcerer        :
+ClassSorcerer        : https://elderscrolls.fandom.com/wiki/Resolute_Ally
 ClassSpellSword      : https://elderscrolls.fandom.com/wiki/Umbra_(Legends)
-ClassSpider          :
+ClassSpider          : https://elderscrolls.fandom.com/wiki/Frostbite_Spider_(Legends)
 ClassTank            : https://elderscrolls.fandom.com/wiki/Maple_Shield_(Legends)
 ClassThief           : https://elderscrolls.fandom.com/wiki/Lockpick_(Legends)
-ClassVampire         :
+ClassVampire         : https://unsplash.com/@peter_forster
 ClassWarmonger       : https://elderscrolls.fandom.com/wiki/Execute
-ClassWarrior         :
-ClassWerewolf        :
+ClassWarrior         : https://elderscrolls.fandom.com/wiki/Recruit_(Legends)?file=Recruit_%2528Imperial%2529_card_art.png
+ClassWerewolf        : https://elderscrolls.fandom.com/wiki/Corpselight_Beast
 ClassWitchblade      : https://elderscrolls.fandom.com/wiki/Arcane_Enchanter_(Legends)
 ClassWizard          : https://elderscrolls.fandom.com/wiki/Dagi-raht_Mystic
 
@@ -60,29 +60,29 @@ ClassWizard          : https://elderscrolls.fandom.com/wiki/Dagi-raht_Mystic
 FACTIONS:
 
 Bandit Faction               : https://elderscrolls.fandom.com/wiki/Treasure_Map
-BardSingerFaction            :
-Blades                       :
-Blades Recruits              :
+BardSingerFaction            : https://elderscrolls.fandom.com/wiki/Lute_(Legends)
+Blades                       : https://elderscrolls.fandom.com/wiki/Blades_Guardian
+Blades Recruits              : https://elderscrolls.fandom.com/wiki/Blades_Guardian
 Imperial Legion              : https://elderscrolls.fandom.com/wiki/Imperial_Armor_(Legends)
-Sons of Skyrim               :
+Sons of Skyrim               : https://en.uesp.net/wiki/File:SR-concept-Stormcloak_Male.jpg
 College of Winterhold        : https://elderscrolls.fandom.com/wiki/Revealing_the_Unseen_(Legends)
 The Companions               : https://elderscrolls.fandom.com/wiki/Skyforge_(Legends)
 DLC1VampireHunter            :
-DLC1Vampire                  :
-Reavers                      :
+DLC1Vampire                  : https://elderscrolls.fandom.com/wiki/Hush_(Legends)
+Reavers                      : https://elderscrolls.fandom.com/wiki/Treasure_Map
 Cultist Faction              : https://elderscrolls.fandom.com/wiki/Dragon_Priest_Mask_(Legends)
-Morag Tong Faction           :
+Morag Tong Faction           : https://elderscrolls.fandom.com/wiki/Writ_of_Execution_(Legends)
 The Dark Brotherhood         : https://elderscrolls.fandom.com/wiki/Brotherhood_Sanctuary
 Forsworn Faction             : https://elderscrolls.fandom.com/wiki/Bone_Bow
-Greybeards                   :
+Greybeards                   : https://elderscrolls.fandom.com/wiki/Greybeard_Mentor
 Guard Faction                : https://elderscrolls.fandom.com/wiki/Arrow_in_the_Knee_(Legends)
 MS07BanditFaction            : https://elderscrolls.fandom.com/wiki/Treasure_Map
 Broken Oar Bandits           : https://elderscrolls.fandom.com/wiki/Treasure_Map
 NecromancerFaction           : https://elderscrolls.fandom.com/wiki/Black_Soul_Gem_(Legends)
-Penitus Oculatus Faction     :
+Penitus Oculatus Faction     : https://elderscrolls.fandom.com/wiki/Penitus_Oculatus_Agent_(Legends)
 SilverHandFaction            :
-Soul Cairn Faction           :
-Thalmor                      :
+Soul Cairn Faction           : https://elderscrolls.fandom.com/wiki/Arise
+Thalmor                      : https://elderscrolls.fandom.com/wiki/Thalmor_Soldier_(Legends)
 Thieves' Guild               : https://elderscrolls.fandom.com/wiki/Dagger_(Legends)
 Vampire Faction              : https://elderscrolls.fandom.com/wiki/Hush_(Legends)
 Vigilant of Stendarr Faction : https://elderscrolls.fandom.com/wiki/Divine_Fervor
@@ -91,14 +91,14 @@ WarlockFaction               : https://elderscrolls.fandom.com/wiki/Staff_of_Spa
 KEYWORDS:
 
 ActorTypeAnimal  :
-ActorTypeDaedra  :
+ActorTypeDaedra  : https://elderscrolls.fandom.com/wiki/Oblivion_Gate_(Legends)
 ActorTypeDragon  :
 ActorTypeDwarven :
 ActorTypeGhost   :
-ActorTypeGiant   :
+ActorTypeGiant   : https://elderscrolls.fandom.com/wiki/Vigilant_Giant
 ActorTypeTroll   :
 ActorTypeUndead  : https://elderscrolls.fandom.com/wiki/Arise
-ActorTypeVampire :
+ActorTypeVampire : https://unsplash.com/@peter_forster
 
 chaurusrace? https://elderscrolls.fandom.com/wiki/Chaurus_Breeding_Pit
 
