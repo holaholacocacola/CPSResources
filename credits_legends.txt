@@ -1,22 +1,22 @@
-ClassAlterationMage  : 
-ClassApothecary      : 
-ClassArcher          : 
-ClassAssassin        : 
+ClassAlterationMage  : https://elderscrolls.fandom.com/wiki/Tome_of_Alteration
+ClassApothecary      : https://elderscrolls.fandom.com/wiki/Alchemy_(Legends)
+ClassArcher          : https://elderscrolls.fandom.com/wiki/Assassin%27s_Bow
+ClassAssassin        : https://elderscrolls.fandom.com/wiki/Completed_Contract
 ClassBarbarian       : 
-ClassBard            : 
-ClassBattleMage      : 
+ClassBard            : https://elderscrolls.fandom.com/wiki/Lute_(Legends)
+ClassBattleMage      : https://elderscrolls.fandom.com/wiki/Spirit_Knife_(Legends)
 ClassBeggar          : 
 ClassBlackSmith      : 
 ClassChaurus         : 
 ClassChaurusFlyer    : 
 ClassCitizen         : 
-ClassConjurer        : 
-ClassCrusader        : 
+ClassConjurer        : https://elderscrolls.fandom.com/wiki/Dark_Rebirth
+ClassCrusader        : https://elderscrolls.fandom.com/wiki/Piercing_Javelin_(Legends)
 ClassDeathHound      : 
 ClassDestructionMage : 
 ClassDragon          : 
 ClassDragonPriest    : 
-ClassDuelist         : 
+ClassDuelist         : https://elderscrolls.fandom.com/wiki/Dagoth_Dagger_(Legends)
 ClassDwarvenCenturion: 
 ClassDwarvenSphere   : 
 ClassEnchanter       : 
@@ -31,27 +31,48 @@ ClassHealer          :
 ClassHorse           :
 ClassIceWraith       :
 ClassIllusionist     :
-ClassKnight          :
+ClassKnight          : https://elderscrolls.fandom.com/wiki/Steel_Sword_(Legends)
 ClassLurker          :
 ClassMammoth         :
 ClassMiner           :
 ClassMonk            :
 ClassMudCrab         :
-ClassNightblade      :
+ClassNightblade      : https://elderscrolls.fandom.com/wiki/Daedric_Dagger_(Legends)
 ClassNone            :
 ClassPredator        :
 ClassPrey            :
-ClassRanger          :
+ClassRanger          : https://elderscrolls.fandom.com/wiki/Assassin%27s_Bow
 ClassRogue           :
-ClassScout           :
+ClassScout           : https://elderscrolls.fandom.com/wiki/Scout%27s_Report
 ClassSorcerer        :
-ClassSpellSword      :
+ClassSpellSword      : https://elderscrolls.fandom.com/wiki/Umbra_(Legends)
 ClassSpider          :
-ClassTank            :
-ClassThief           :
+ClassTank            : https://elderscrolls.fandom.com/wiki/Maple_Shield_(Legends)
+ClassThief           : https://elderscrolls.fandom.com/wiki/Lockpick_(Legends)
 ClassVampire         :
-ClassWarmonger       :
+ClassWarmonger       : https://elderscrolls.fandom.com/wiki/Execute
 ClassWarrior         :
 ClassWerewolf        :
-ClassWitchblade      :
-ClassWizard          :
+ClassWitchblade      : https://elderscrolls.fandom.com/wiki/Arcane_Enchanter_(Legends)
+ClassWizard          : https://elderscrolls.fandom.com/wiki/Dagi-raht_Mystic
+
+
+keyword undead? https://elderscrolls.fandom.com/wiki/Arise
+guard faction: https://elderscrolls.fandom.com/wiki/Arrow_in_the_Knee_(Legends)
+bandit: https://elderscrolls.fandom.com/wiki/Treasure_Map
+chaurusrace? https://elderscrolls.fandom.com/wiki/Chaurus_Breeding_Pit
+Vamp faction: https://elderscrolls.fandom.com/wiki/Hush_(Legends)
+winterhold faction: https://elderscrolls.fandom.com/wiki/Revealing_the_Unseen_(Legends)
+warlock faction: https://elderscrolls.fandom.com/wiki/Soul_Shred_(Legends)
+necromancer faction: https://elderscrolls.fandom.com/wiki/Black_Soul_Gem_(Legends)
+brotherhood faction: https://elderscrolls.fandom.com/wiki/Brotherhood_Sanctuary
+vigilant faction: https://elderscrolls.fandom.com/wiki/Divine_Fervor
+companions: https://elderscrolls.fandom.com/wiki/Skyforge_(Legends)
+forsworfn faction: https://elderscrolls.fandom.com/wiki/Bone_Bow
+thieves faction: https://elderscrolls.fandom.com/wiki/Dagger_(Legends)
+cultist faction: https://elderscrolls.fandom.com/wiki/Dragon_Priest_Mask_(Legends)
+imperial faction: https://elderscrolls.fandom.com/wiki/Imperial_Armor_(Legends)
+
+warlock: https://elderscrolls.fandom.com/wiki/Staff_of_Sparks_(Legends)
+default enemy: https://elderscrolls.fandom.com/wiki/Horned_Helm
+default_follower: https://elderscrolls.fandom.com/wiki/Trusty_Sword
