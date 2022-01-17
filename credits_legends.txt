@@ -112,17 +112,17 @@ NPCS:
 	Ancano                 : https://elderscrolls.fandom.com/wiki/Ancano_(Legends)
 	Annekke Crag-Jumper    : https://elderscrolls.fandom.com/wiki/Aela%27s_Huntmate
 	Anska                  : https://elderscrolls.fandom.com/wiki/Disciple_of_Namira
-	Aranea Ienith          :
+	Aranea Ienith          : https://elderscrolls.fandom.com/wiki/Alfe_Fyr_(Legends)
 	Argis the Bulwark      : https://elderscrolls.fandom.com/wiki/Jorunn%27s_Vanguard
 	Athis                  : https://elderscrolls.fandom.com/wiki/Brutal_Ashlander
 	Beleval                : https://elderscrolls.fandom.com/wiki/Valenwood_Sentry
 	Benor                  : https://elderscrolls.fandom.com/wiki/Morthal_Watchman
-	Borgakh the Steel Heart:
+	Borgakh the Steel Heart: https://elderscrolls.fandom.com/wiki/High_Rock_Stalwart
 	Brelyna Maryon         : https://elderscrolls.fandom.com/wiki/Cunning_Ally
 	Calder                 : https://elderscrolls.fandom.com/wiki/Fearless_Northlander
 	Celann                 : https://elderscrolls.fandom.com/wiki/Corsair_(Legends)
 	Derkeethus             : https://elderscrolls.fandom.com/wiki/Argonian_Recruit
-	Durak                  :
+	Durak                  : https://elderscrolls.fandom.com/wiki/Militant_Chieftain
 	Eola                   : https://elderscrolls.fandom.com/wiki/Expert_Atromancer
 	Erandur                : https://elderscrolls.fandom.com/wiki/Tel_Vos_Magister
 	Erik the Slayer        : https://elderscrolls.fandom.com/wiki/Stormcloak_Avenger
@@ -130,7 +130,7 @@ NPCS:
 	Familiar               :
 	Farkas                 : https://elderscrolls.fandom.com/wiki/Grim_Shield-Brother
 	Frea                   : https://elderscrolls.fandom.com/wiki/File:Recruit_(Nord)_card_art.png
-	Ghorbash the Iron Hand :
+	Ghorbash the Iron Hand : https://elderscrolls.fandom.com/wiki/Bangkorai_Butcher
 	Gregor                 : https://elderscrolls.fandom.com/wiki/Mercenary_Captain
 	Illia                  : https://elderscrolls.fandom.com/wiki/Empire_Dreadmage
 	Ingjard                : https://elderscrolls.fandom.com/wiki/File:Nord_avatar_2_(Legends).png
@@ -143,7 +143,7 @@ NPCS:
 	Marcurio               : https://elderscrolls.fandom.com/wiki/Wind_Keep_Spellsword
 	Mjoll the Lioness      : https://elderscrolls.fandom.com/wiki/Blades_Flanker
 	Njada Stonearm         : https://elderscrolls.fandom.com/wiki/Aela%27s_Huntmate
-	Ogol                   :
+	Ogol                   : https://elderscrolls.fandom.com/wiki/Trouble_Seeker
 	Onmund                 : https://elderscrolls.fandom.com/wiki/Manic_Jack
 	Rayya                  :
 	Ria                    : https://elderscrolls.fandom.com/wiki/Graceful_Myrmidon
@@ -152,7 +152,7 @@ NPCS:
 	Talvas Fathryon        : https://elderscrolls.fandom.com/wiki/Renegade_Magister
 	Torvar                 : https://elderscrolls.fandom.com/wiki/Desperate_Captive
 	Teldryn Sero           : https://elderscrolls.fandom.com/wiki/Temple_Conjurer
-	Ugor                   :
+	Ugor                   : https://elderscrolls.fandom.com/wiki/Dushnikh_Yal_Archer
 	Uthgerd the Unbroken   : https://elderscrolls.fandom.com/wiki/Initiate_of_Hircine
 	Vilkas                 : https://elderscrolls.fandom.com/wiki/Grim_Shield-Brother
 	
@@ -207,11 +207,11 @@ PLAYER_FEMALE:
 	NordFemale04    : https://elderscrolls.fandom.com/wiki/Star-Sung_Bard
 	NordFemale05    : https://elderscrolls.fandom.com/wiki/Ulfric%27s_Zealot
 	NordFemale06    : https://elderscrolls.fandom.com/wiki/Young_Dragonborn
-	OrcFemale01     :
-	OrcFemale02     :
-	OrcFemale03     :
-	OrcFemale04     :
-	OrcFemale05     :
+	OrcFemale01     : https://elderscrolls.fandom.com/wiki/Covenant_Marauder
+	OrcFemale02     : https://elderscrolls.fandom.com/wiki/Dushnikh_Yal_Archer
+	OrcFemale03     : https://elderscrolls.fandom.com/wiki/High_Rock_Stalwart
+	OrcFemale04     : https://elderscrolls.fandom.com/wiki/Luzrah_gro-Shar
+	OrcFemale05     : https://elderscrolls.fandom.com/wiki/Karthspire_Scout
 	RedguardFemale01:
 	RedguardFemale02:
 	RedguardFemale03:
@@ -276,11 +276,11 @@ PLAYER_MALE:
 	NordMale03    : https://elderscrolls.fandom.com/wiki/Keeper_of_the_Gates
 	NordMale04    : https://elderscrolls.fandom.com/wiki/Riften_Pillager
 	NordMale05    : https://elderscrolls.fandom.com/wiki/Whiterun_Recruit
-	OrcMale01     :
-	OrcMale02     :
-	OrcMale03     :
-	OrcMale04     :
-	OrcMale05     :
+	OrcMale01     : https://elderscrolls.fandom.com/wiki/Battlerage_Orc
+	OrcMale02     : https://elderscrolls.fandom.com/wiki/Camonna_Tong_Heavy
+	OrcMale03     : https://elderscrolls.fandom.com/wiki/Fharun_Defender
+	OrcMale04     : https://elderscrolls.fandom.com/wiki/Graystone_Ravager
+	OrcMale05     : https://elderscrolls.fandom.com/wiki/Dragontail_Savior
 	RedguardMale01:
 	RedguardMale02:
 	RedguardMale03:
