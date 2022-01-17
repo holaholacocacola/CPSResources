@@ -135,10 +135,10 @@ NPCS:
 	Illia                  : https://elderscrolls.fandom.com/wiki/Empire_Dreadmage
 	Ingjard                :
 	Iona                   :
-	J'zargo                :
+	J'zargo                : https://elderscrolls.fandom.com/wiki/Experimental_Scroll
 	Jenassa                : https://elderscrolls.fandom.com/wiki/Ashlander_Punisher
 	Jordis the Sword-Maiden:
-	Kharjo                 :
+	Kharjo                 : https://elderscrolls.fandom.com/wiki/Caravan_Enforcer
 	Lydia                  :
 	Marcurio               : https://elderscrolls.fandom.com/wiki/Wind_Keep_Spellsword
 	Mjoll the Lioness      :
@@ -198,12 +198,12 @@ PLAYER_FEMALE:
 	ImperialFemale05: https://elderscrolls.fandom.com/wiki/Imperial_Soldier_(Legends)
 	ImperialFemale06: https://elderscrolls.fandom.com/wiki/Cygnus_Standard_Bearer
 	ImperialFemale07: https://elderscrolls.fandom.com/wiki/Enraged_Dragonknight
-	KhajiitFemale01 :
-	KhajiitFemale02 :
-	KhajiitFemale03 :
-	KhajiitFemale04 :
-	KhajiitFemale05 :
-	KhajiitFemale06 :
+	KhajiitFemale01 : https://elderscrolls.fandom.com/wiki/Cartel_Arcanist
+	KhajiitFemale02 : https://elderscrolls.fandom.com/wiki/Discerning_Thief
+	KhajiitFemale03 : https://elderscrolls.fandom.com/wiki/Rebel_Warden
+	KhajiitFemale04 : https://elderscrolls.fandom.com/wiki/Mythic_Dawn_Zealot
+	KhajiitFemale05 : https://elderscrolls.fandom.com/wiki/File:Khajiit_avatar_1_(Legends).png
+	KhajiitFemale06 : https://elderscrolls.fandom.com/wiki/File:Khajiit_avatar_2_(Legends).png
 	NordFemale01    :
 	NordFemale02    :
 	NordFemale03    :
@@ -269,11 +269,11 @@ PLAYER_MALE:
 	ImperialMale03: https://elderscrolls.fandom.com/wiki/Cheydinhal_Sapper
 	ImperialMale04: https://elderscrolls.fandom.com/wiki/Empire_Oathman
 	ImperialMale05: https://elderscrolls.fandom.com/wiki/Imperial_Lackey
-	KhajiitMale01 :
-	KhajiitMale02 :
-	KhajiitMale03 :
-	KhajiitMale04 :
-	KhajiitMale05 :
+	KhajiitMale01 : https://elderscrolls.fandom.com/wiki/Cathay-raht_(Legends)
+	KhajiitMale02 : https://elderscrolls.fandom.com/wiki/Boneweaver
+	KhajiitMale03 : https://elderscrolls.fandom.com/wiki/Servant_of_Ja-Kha%27jay
+	KhajiitMale04 : https://elderscrolls.fandom.com/wiki/Tenarr_Zalviit_Lurker
+	KhajiitMale05 : https://elderscrolls.fandom.com/wiki/Rajhini_Highwayman
 	NordMale01    :
 	NordMale02    :
 	NordMale03    :
