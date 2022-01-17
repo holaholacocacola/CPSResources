@@ -203,38 +203,38 @@ PLAYER_GENERIC:
 PLAYER_MALE:
 
 	ArgonianMale01: 
-	ArgonianMale02:
-	BosmerMale01  : 
-	BosmerMale02  :
-	BretonMale01  : 
-	BretonMale02  : 
-	BretonMale03  : 
-	BretonMale04  :
-	DunmerMale01  : 
-	DunmerMale02  : 
-	DunmerMale03  : 
-	DunmerMale04  : 
-	DunmerMale05  :
-	HighElfMale01 : 
-	HighElfMale02 : 
-	HighElfMale03 :
-	ImperialMale01: 
-	ImperialMale02: 
-	ImperialMale03: 
-	ImperialMale04: 
-	ImperialMale05:
-	KhajiitMale01 : 
-	KhajiitMale02 :
-	NordMale01    : 
-	NordMale02    : 
-	NordMale03    :
-	OrcMale01     : 
-	OrcMale02     : 
-	OrcMale03     :
-	RedguardMale01: 
-	RedguardMale02: 
-	RedguardMale03: 
-	RedguardMale04: 
+	ArgonianMale02: https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/0f/Neetrenaza.png/revision/latest?cb=20120531143815
+	BosmerMale01  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/bb/Gadnor.png/revision/latest?cb=20120629111434
+	BosmerMale02  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/5f/Valindor.png/revision/latest?cb=20120610195329
+	BretonMale01  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/1/16/Duach.png/revision/latest?cb=20120615163143
+	BretonMale02  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/3a/Erj.png/revision/latest?cb=20120628121733
+	BretonMale03  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/2/2e/Morven.png/revision/latest?cb=20120618185138
+	BretonMale04  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/5c/Rondach.png/revision/latest?cb=20120615144927
+	DunmerMale01  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/d3/DaynasValen.png/revision/latest?cb=20120209181919
+	DunmerMale02  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/bd/MalthyrElenil.png/revision/latest?cb=20120618140222
+	DunmerMale03  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/8d/TythisUlen.png/revision/latest?cb=20120209184724 
+	DunmerMale04  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/87/VampireBossDarkElfM_Lvl1-27.png/revision/latest?cb=20120608203657
+	DunmerMale05  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/0b/VampireBossDarkElfM_Lvl58.png/revision/latest?cb=20120608203657
+	HighElfMale01 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/6/69/Melaran.png/revision/latest?cb=20120217170124
+	HighElfMale02 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/b1/Sanyon.png/revision/latest?cb=20120517171542
+	HighElfMale03 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/f/f1/WarlockBossHighElfM_Lvl19-26.png/revision/latest?cb=20120720135247
+	ImperialMale01: https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/08/Alethius.png/revision/latest?cb=20120515173021
+	ImperialMale02: https://static.wikia.nocookie.net/skyrim_gamepedia/images/4/40/GallusDesidenius.png/revision/latest?cb=20120504214744
+	ImperialMale03: https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/d4/GavrosPlinius.png/revision/latest?cb=20120629155404
+	ImperialMale04: https://static.wikia.nocookie.net/skyrim_gamepedia/images/c/cd/Salvianus.png/revision/latest?cb=20120618150955
+	ImperialMale05: https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/82/SullaTrebatius.png/revision/latest?cb=20120610200800
+	KhajiitMale01 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/98/Dromarash.png/revision/latest?cb=20120211125938
+	KhajiitMale02 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/6/64/Rajirr.png/revision/latest?cb=20120608181852
+	NordMale01    : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/59/Bandit_male.png/revision/latest?cb=20120412140312
+	NordMale02    : https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/d8/BanditBoss2HNordM_Lvl1-13.png/revision/latest?cb=20120608185903
+	NordMale03    : https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/7d/BanditBoss2HNordM_Lvl29.png/revision/latest?cb=20120608185903
+	OrcMale01     : https://static.wikia.nocookie.net/skyrim_gamepedia/images/1/10/BanditBossOrcM_Lvl1-13.png/revision/latest?cb=20120720194958
+	OrcMale02     : https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/36/GadbagroLargash.png/revision/latest?cb=20120618154105
+	OrcMale03     : https://static.wikia.nocookie.net/skyrim_gamepedia/images/f/f6/Ulag.png/revision/latest?cb=20120618183013
+	RedguardMale01: https://static.wikia.nocookie.net/skyrim_gamepedia/images/e/ef/Firir.png/revision/latest?cb=20120615121802
+	RedguardMale02: https://static.wikia.nocookie.net/skyrim_gamepedia/images/e/eb/Mani.png/revision/latest?cb=20120608175722
+	RedguardMale03: https://static.wikia.nocookie.net/skyrim_gamepedia/images/1/1c/Nazeem.png/revision/latest?cb=20120617124440
+	RedguardMale04: https://static.wikia.nocookie.net/skyrim_gamepedia/images/f/fa/Razelan.png/revision/latest?cb=20120609204228
 	
 RACES:
 
