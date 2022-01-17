@@ -291,14 +291,14 @@ PLAYER_MALE:
 RACES:
 
 AlduinRace                       : https://elderscrolls.fandom.com/wiki/Alduin_(Legends)
-ArgonianRace                     : 
+ArgonianRace                     : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
 AtronachFlameRace                : https://elderscrolls.fandom.com/wiki/Flame_Atronach_(Legends)
 AtronachFrostRace                : https://elderscrolls.fandom.com/wiki/Frost_Atronach_(Legends)
 AtronachStormRace                : https://elderscrolls.fandom.com/wiki/Storm_Atronach_(Legends)
 BearBlackRace                    : https://elderscrolls.fandom.com/wiki/Cave_Bear_(Legends)
 BearBrownRace                    : https://elderscrolls.fandom.com/wiki/Cave_Bear_(Legends)
 BearSnowRace                     : 
-BretonRace                       : 
+BretonRace                       : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
 BretonRaceChildVampire           : https://elderscrolls.fandom.com/wiki/Ageless_Vampire 
 C06WolfSpiritRace                : https://elderscrolls.fandom.com/wiki/Familiar_(Legends)         : 
 CcBGSSSE035_NixHoundCompanionRace: https://elderscrolls.fandom.com/wiki/Nix-Hound_(Legends)
@@ -307,7 +307,7 @@ ChaurusRace                      : https://elderscrolls.fandom.com/wiki/Chaurus_
 ChaurusReaperRace                : https://elderscrolls.fandom.com/wiki/Chaurus_Reaper_(Legends)
 ChickenRace                      : https://elderscrolls.fandom.com/wiki/Prized_Chicken
 DA03BarbasDogRace                : https://elderscrolls.fandom.com/wiki/Barbas_(Legends)
-DarkElfRace                      : 
+DarkElfRace                      : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
 DeerRace                         : https://elderscrolls.fandom.com/wiki/Deer_(Online)
 DLC1BlackSkeletonRace            : https://elderscrolls.fandom.com/wiki/Risen_Dead_(Legends)
 DLC1ChaurusHunterRace            : https://elderscrolls.fandom.com/wiki/Chaurus_Breeding_Pit
@@ -321,7 +321,7 @@ DLC1HuskyArmoredRace             : https://forums.elderscrollsonline.com/en/disc
 DLC1HuskyBareCompanionRace       : https://forums.elderscrollsonline.com/en/discussion/265058/what-are-you-most-excited-about-with-the-coming-dark-brotherhood-dlc
 DLC1HuskyBareRace                : https://forums.elderscrollsonline.com/en/discussion/265058/what-are-you-most-excited-about-with-the-coming-dark-brotherhood-dlc
 DLC1LD_ForgemasterRace           : https://elderscrolls.fandom.com/wiki/Dormant_Centurion
-DLC1NordRace                     : 
+DLC1NordRace                     : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
 DLC1SoulCairnSkeletonArmorRace   : https://elderscrolls.fandom.com/wiki/Wandering_Skeleton
 DLC1UndeadDragonRace             : https://elderscrolls.fandom.com/wiki/Undying_Dragon
 DLC1VampireBeastRace             : https://elderscrolls.fandom.com/wiki/Night_Talon_Lord
@@ -359,19 +359,19 @@ GiantRace                        : https://elderscrolls.fandom.com/wiki/Stouthea
 GoatRace                         : https://elderscrolls.fandom.com/wiki/Obstinate_Goat
 HagravenRace                     : https://elderscrolls.fandom.com/wiki/Hagraven_(Online)
 HareRace                         : https://elderscrolls.fandom.com/wiki/Rabbit_(Online)
-HighElfRace                      : 
+HighElfRace                      : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
 HorkerRace                       : https://elderscrolls.fandom.com/wiki/Raging_Horker
 HorseRace                        : 
 IceWraithRace                    : https://elderscrolls.fandom.com/wiki/Ice_Wraith_(Legends)
-ImperialRace                     : 
-KhajiitRace                      : 
+ImperialRace                     : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
+KhajiitRace                      : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
 MagicAnomalyRace                 : https://elderscrolls.fandom.com/wiki/Magic_Anomaly?file=Magic_Anomaly.jpg
 MammothRace                      : https://elderscrolls.fandom.com/wiki/Young_Mammoth
 MudcrabRace                      : https://elderscrolls.fandom.com/wiki/Mudcrab_Anklesnapper
-NordRace                         : 
+NordRace                         : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
 NordRaceAstrid                   : https://elderscrolls.fandom.com/wiki/Astrid_(Legends)
-OrcRace                          : 
-RedguardRace                     : 
+OrcRace                          : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
+RedguardRace                     : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
 SabreCatRace                     : https://elderscrolls.fandom.com/wiki/Senche-Tiger_(Legends)
 SabreCatSnowyRace                : https://elderscrolls.fandom.com/wiki/Snowy_Sabre_Cat_(Legends)
 SkeeverRace                      : https://elderscrolls.fandom.com/wiki/Skeever_(Card)
@@ -392,5 +392,5 @@ WispRace                         : https://elderscrolls.fandom.com/wiki/Will-o-t
 WispShadeRace                    : https://elderscrolls.fandom.com/wiki/Sundered_Shade
 WitchlightRace                   : https://elderscrolls.fandom.com/wiki/Wispmother_(Legends)
 WolfRace                         : https://elderscrolls.fandom.com/wiki/Apex_Wolf
-WoodElfRace                      : 
+WoodElfRace                      : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
 Zombielich:                      : https://elderscrolls.fandom.com/wiki/Miscarcand_Lich
