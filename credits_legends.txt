@@ -67,7 +67,7 @@ Imperial Legion              : https://elderscrolls.fandom.com/wiki/Imperial_Arm
 Sons of Skyrim               : https://en.uesp.net/wiki/File:SR-concept-Stormcloak_Male.jpg
 College of Winterhold        : https://elderscrolls.fandom.com/wiki/Revealing_the_Unseen_(Legends)
 The Companions               : https://elderscrolls.fandom.com/wiki/Skyforge_(Legends)
-DLC1VampireHunter            :
+DLC1VampireHunter            : https://imgur.com/gallery/kq74M
 DLC1Vampire                  : https://elderscrolls.fandom.com/wiki/Hush_(Legends)
 Reavers                      : https://elderscrolls.fandom.com/wiki/Treasure_Map
 Cultist Faction              : https://elderscrolls.fandom.com/wiki/Dragon_Priest_Mask_(Legends)
@@ -80,7 +80,7 @@ MS07BanditFaction            : https://elderscrolls.fandom.com/wiki/Treasure_Map
 Broken Oar Bandits           : https://elderscrolls.fandom.com/wiki/Treasure_Map
 NecromancerFaction           : https://elderscrolls.fandom.com/wiki/Black_Soul_Gem_(Legends)
 Penitus Oculatus Faction     : https://elderscrolls.fandom.com/wiki/Penitus_Oculatus_Agent_(Legends)
-SilverHandFaction            :
+SilverHandFaction            : https://en.uesp.net/wiki/File:ON-banner-Silver_Dawn.png
 Soul Cairn Faction           : https://elderscrolls.fandom.com/wiki/Arise
 Thalmor                      : https://elderscrolls.fandom.com/wiki/Thalmor_Soldier_(Legends)
 Thieves' Guild               : https://elderscrolls.fandom.com/wiki/Dagger_(Legends)
@@ -92,12 +92,12 @@ KEYWORDS:
 
 ActorTypeAnimal  :
 ActorTypeDaedra  : https://elderscrolls.fandom.com/wiki/Oblivion_Gate_(Legends)
-ActorTypeDragon  :
-ActorTypeDwarven :
-ActorTypeGhost   :
+ActorTypeDragon  : https://elderscrolls.fandom.com/wiki/Echo_of_Akatosh
+ActorTypeDwarven : https://elderscrolls.fandom.com/wiki/Stronghold_Prototype
+ActorTypeGhost   : https://elderscrolls.fandom.com/wiki/Cursed_Spectre
 ActorTypeGiant   : https://elderscrolls.fandom.com/wiki/Vigilant_Giant
-ActorTypeTroll   :
-ActorTypeUndead  : https://elderscrolls.fandom.com/wiki/Arise
+ActorTypeTroll   : https://elderscrolls.fandom.com/wiki/Bleakcoast_Troll
+ActorTypeUndead  : https://elderscrolls.fandom.com/wiki/Skeleton_(Card)
 ActorTypeVampire : https://unsplash.com/@peter_forster
 
 chaurusrace? https://elderscrolls.fandom.com/wiki/Chaurus_Breeding_Pit
