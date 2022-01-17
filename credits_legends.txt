@@ -113,17 +113,17 @@ NPCS:
 	Anska                  :
 	Aranea Ienith          :
 	Argis the Bulwark      :
-	Athis                  :
+	Athis                  : https://elderscrolls.fandom.com/wiki/Brutal_Ashlander
 	Beleval                : https://elderscrolls.fandom.com/wiki/Valenwood_Sentry
 	Benor                  :
 	Borgakh the Steel Heart:
-	Brelyna Maryon         :
+	Brelyna Maryon         : https://elderscrolls.fandom.com/wiki/Cunning_Ally
 	Calder                 :
-	Celann                 :
-	Derkeethus             :
+	Celann                 : https://elderscrolls.fandom.com/wiki/Corsair_(Legends)
+	Derkeethus             : https://elderscrolls.fandom.com/wiki/Argonian_Recruit
 	Durak                  :
-	Eola                   :
-	Erandur                :
+	Eola                   : https://elderscrolls.fandom.com/wiki/Expert_Atromancer
+	Erandur                : https://elderscrolls.fandom.com/wiki/Tel_Vos_Magister
 	Erik the Slayer        :
 	Faendal                : https://elderscrolls.fandom.com/wiki/Woodland_Lookout
 	Familiar               :
@@ -135,22 +135,22 @@ NPCS:
 	Ingjard                :
 	Iona                   :
 	J'zargo                :
-	Jenassa                :
+	Jenassa                : https://elderscrolls.fandom.com/wiki/Ashlander_Punisher
 	Jordis the Sword-Maiden:
 	Kharjo                 :
 	Lydia                  :
-	Marcurio               :
+	Marcurio               : https://elderscrolls.fandom.com/wiki/Wind_Keep_Spellsword
 	Mjoll the Lioness      :
 	Njada Stonearm         :
 	Ogol                   :
-	Onmund                 :
+	Onmund                 : https://elderscrolls.fandom.com/wiki/Manic_Jack
 	Rayya                  :
 	Ria                    :
 	Serana                 :
 	Stenvar                :
-	Talvas Fathryon        :
+	Talvas Fathryon        : https://elderscrolls.fandom.com/wiki/Renegade_Magister
 	Torvar                 :
-	Teldryn Sero           :
+	Teldryn Sero           : https://elderscrolls.fandom.com/wiki/Temple_Conjurer
 	Ugor                   :
 	Uthgerd the Unbroken   :
 	Valdimar               :
@@ -172,19 +172,19 @@ PLAYER_FEMALE:
 	BosmerFemale04  : https://elderscrolls.fandom.com/wiki/Illicit_Butcher
 	BosmerFemale05  : https://elderscrolls.fandom.com/wiki/Imbued_Bosmer
 	BosmerFemale06  : https://elderscrolls.fandom.com/wiki/Sharpshooter_Scout
-	BretonFemale01  :
-	BretonFemale02  :
-	BretonFemale03  :
-	BretonFemale04  :
-	BretonFemale05  :
-	DunmerFemale01  :
-	DunmerFemale02  :
-	DunmerFemale03  :
-	DunmerFemale04  :
-	DunmerFemale05  :
-	DunmerFemale06  :
-	DunmerFemale07  :
-	DunmerFemale08  :
+	BretonFemale01  : https://elderscrolls.fandom.com/wiki/Blades_Defender
+	BretonFemale02  : https://elderscrolls.fandom.com/wiki/Emeric%27s_Warlord
+	BretonFemale03  : https://elderscrolls.fandom.com/wiki/Guildsworn_Cavalier
+	BretonFemale04  : https://elderscrolls.fandom.com/wiki/Mythic_Dawn_Acolyte_(Legends)
+	BretonFemale05  : https://elderscrolls.fandom.com/wiki/Vigilant_of_Stendarr_(Legends)
+	DunmerFemale01  : https://elderscrolls.fandom.com/wiki/Awakened_Dreamer
+	DunmerFemale02  : https://elderscrolls.fandom.com/wiki/Brotherhood_Assassin
+	DunmerFemale03  : https://elderscrolls.fandom.com/wiki/Deshaan_Avenger
+	DunmerFemale04  : https://elderscrolls.fandom.com/wiki/Inspiring_Soldier
+	DunmerFemale05  : https://elderscrolls.fandom.com/wiki/Morag_Tong_Aspirant
+	DunmerFemale06  : https://elderscrolls.fandom.com/wiki/Mournhold_Guardian
+	DunmerFemale07  : https://elderscrolls.fandom.com/wiki/Suran_Pawnbroker
+	DunmerFemale08  : https://elderscrolls.fandom.com/wiki/Varanis_Courier
 	HighElfFemale01 :
 	HighElfFemale02 :
 	HighElfFemale03 :
@@ -246,18 +246,18 @@ PLAYER_MALE:
 	BosmerMale03  : https://elderscrolls.fandom.com/wiki/Nimble_Ally
 	BosmerMale04  : https://elderscrolls.fandom.com/wiki/Silvenar_Tracker
 	BosmerMale05  :
-	BretonMale01  :
-	BretonMale02  :
-	BretonMale03  :
-	BretonMale04  :
-	BretonMale05  :
-	DunmerMale01  :
-	DunmerMale02  :
-	DunmerMale03  :
-	DunmerMale04  :
-	DunmerMale05  :
-	DunmerMale06  :
-	DunmerMale07  :
+	BretonMale05  : https://elderscrolls.fandom.com/wiki/Breton_Conjurer
+	BretonMale01  : https://elderscrolls.fandom.com/wiki/Determined_Supplier
+	BretonMale02  : https://elderscrolls.fandom.com/wiki/Manic_Jack
+	BretonMale03  : https://elderscrolls.fandom.com/wiki/File:Breton_avatar_4_(Legends).png
+	BretonMale04  : https://elderscrolls.fandom.com/wiki/File:Breton_avatar_2_(Legends).png
+	DunmerMale01  : https://elderscrolls.fandom.com/wiki/Back-Alley_Footpad
+	DunmerMale02  : https://elderscrolls.fandom.com/wiki/Enamor%27s_Keeper
+	DunmerMale03  : https://elderscrolls.fandom.com/wiki/Indoril_Archmage
+	DunmerMale04  : https://elderscrolls.fandom.com/wiki/Indoril_Mastermind
+	DunmerMale05  : https://elderscrolls.fandom.com/wiki/Mournhold_Taskmaster
+	DunmerMale06  : https://elderscrolls.fandom.com/wiki/Telvanni_Arcanist
+	DunmerMale07  : https://elderscrolls.fandom.com/wiki/Forerunner_of_the_Pact
 	HighElfMale1  :
 	HighElfMale2  :
 	HighElfMale3  :
