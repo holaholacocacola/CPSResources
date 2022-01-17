@@ -127,7 +127,7 @@ NPCS:
 	Erandur                : https://elderscrolls.fandom.com/wiki/Tel_Vos_Magister
 	Erik the Slayer        : https://elderscrolls.fandom.com/wiki/Stormcloak_Avenger
 	Faendal                : https://elderscrolls.fandom.com/wiki/Woodland_Lookout
-	Familiar               :
+	Familiar               : https://elderscrolls.fandom.com/wiki/Familiar_(Legends)
 	Farkas                 : https://elderscrolls.fandom.com/wiki/Grim_Shield-Brother
 	Frea                   : https://elderscrolls.fandom.com/wiki/File:Recruit_(Nord)_card_art.png
 	Ghorbash the Iron Hand : https://elderscrolls.fandom.com/wiki/Bangkorai_Butcher
@@ -145,9 +145,9 @@ NPCS:
 	Njada Stonearm         : https://elderscrolls.fandom.com/wiki/Aela%27s_Huntmate
 	Ogol                   : https://elderscrolls.fandom.com/wiki/Trouble_Seeker
 	Onmund                 : https://elderscrolls.fandom.com/wiki/Manic_Jack
-	Rayya                  :
+	Rayya                  : https://elderscrolls.fandom.com/wiki/File:Redguard_avatar_1_(Legends).png
 	Ria                    : https://elderscrolls.fandom.com/wiki/Graceful_Myrmidon
-	Serana                 :
+	Serana                 : https://cdn.donmai.us/original/1e/f0/1ef030dbdd88a8d4baa4359b72074c2d.jpg
 	Stenvar                : https://elderscrolls.fandom.com/wiki/Mighty_Ally
 	Talvas Fathryon        : https://elderscrolls.fandom.com/wiki/Renegade_Magister
 	Torvar                 : https://elderscrolls.fandom.com/wiki/Desperate_Captive
@@ -212,25 +212,25 @@ PLAYER_FEMALE:
 	OrcFemale03     : https://elderscrolls.fandom.com/wiki/High_Rock_Stalwart
 	OrcFemale04     : https://elderscrolls.fandom.com/wiki/Luzrah_gro-Shar
 	OrcFemale05     : https://elderscrolls.fandom.com/wiki/Karthspire_Scout
-	RedguardFemale01:
-	RedguardFemale02:
-	RedguardFemale03:
-	RedguardFemale04:
-	RedguardFemale05:
-	RedguardFemale06:
+	RedguardFemale01: https://elderscrolls.fandom.com/wiki/Crown_Quartermaster
+	RedguardFemale02: https://elderscrolls.fandom.com/wiki/Keeper_of_Whispers
+	RedguardFemale03: https://elderscrolls.fandom.com/wiki/Niben_Bay_Cutthroat
+	RedguardFemale04: https://elderscrolls.fandom.com/wiki/Seasoned_Captain
+	RedguardFemale05: https://elderscrolls.fandom.com/wiki/Skar_Drillmaster
+	RedguardFemale06: https://elderscrolls.fandom.com/wiki/Whirling_Duelist
 		
 PLAYER_GENERIC:
 
-GenericArgonian:
-GenericBosmer  :
-GenericBreton  :
-GenericDunmer  :
-GenericHighElf :
-GenericImperial:
-GenericKhajiit :
-GenericNord    :
-GenericOrc     :
-GenericRedguard:
+	GenericArgonian: https://en.uesp.net/wiki/Online:Races
+	GenericBosmer  : https://en.uesp.net/wiki/Online:Races
+	GenericBreton  : https://en.uesp.net/wiki/Online:Races
+	GenericDunmer  : https://en.uesp.net/wiki/Online:Races
+	GenericHighElf : https://en.uesp.net/wiki/Online:Races
+	GenericImperial: https://en.uesp.net/wiki/Online:Races
+	GenericKhajiit : https://en.uesp.net/wiki/Online:Races
+	GenericNord    : https://en.uesp.net/wiki/Online:Races
+	GenericOrc     : https://en.uesp.net/wiki/Online:Races
+	GenericRedguard: https://en.uesp.net/wiki/Online:Races
 
 
 PLAYER_MALE:
@@ -281,12 +281,14 @@ PLAYER_MALE:
 	OrcMale03     : https://elderscrolls.fandom.com/wiki/Fharun_Defender
 	OrcMale04     : https://elderscrolls.fandom.com/wiki/Graystone_Ravager
 	OrcMale05     : https://elderscrolls.fandom.com/wiki/Dragontail_Savior
-	RedguardMale01:
-	RedguardMale02:
-	RedguardMale03:
-	RedguardMale04:
-	RedguardMale05:
+	RedguardMale01: https://elderscrolls.fandom.com/wiki/Guildsworn_Wayfarer
+	RedguardMale02: https://elderscrolls.fandom.com/wiki/Reckless_Combatant
+	RedguardMale03: https://elderscrolls.fandom.com/wiki/Skaven_Pyromancer
+	RedguardMale04: https://elderscrolls.fandom.com/wiki/Yokudan_Nightblade
+	RedguardMale05: https://elderscrolls.fandom.com/wiki/File:Redguard_avatar_2_(Legends).png
 
+
+RACES:
 
 chaurusrace? https://elderscrolls.fandom.com/wiki/Chaurus_Breeding_Pit
 
