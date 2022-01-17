@@ -106,12 +106,12 @@ KEYWORDS:
 	
 NPCS:
 
-	Adelaisa Vendicci      :
+	Adelaisa Vendicci      : https://elderscrolls.fandom.com/wiki/Fifth_Legion_Trainer
 	Aela the Huntress      :
 	Ahtar                  :
 	Ancano                 : https://elderscrolls.fandom.com/wiki/Ancano_(Legends)
 	Annekke Crag-Jumper    :
-	Anska                  :
+	Anska                  : https://elderscrolls.fandom.com/wiki/Disciple_of_Namira
 	Aranea Ienith          :
 	Argis the Bulwark      :
 	Athis                  : https://elderscrolls.fandom.com/wiki/Brutal_Ashlander
@@ -132,7 +132,7 @@ NPCS:
 	Frea                   :
 	Ghorbash the Iron Hand :
 	Gregor                 :
-	Illia                  :
+	Illia                  : https://elderscrolls.fandom.com/wiki/Empire_Dreadmage
 	Ingjard                :
 	Iona                   :
 	J'zargo                :
@@ -146,7 +146,7 @@ NPCS:
 	Ogol                   :
 	Onmund                 : https://elderscrolls.fandom.com/wiki/Manic_Jack
 	Rayya                  :
-	Ria                    :
+	Ria                    : https://elderscrolls.fandom.com/wiki/Graceful_Myrmidon
 	Serana                 :
 	Stenvar                :
 	Talvas Fathryon        : https://elderscrolls.fandom.com/wiki/Renegade_Magister
@@ -191,13 +191,13 @@ PLAYER_FEMALE:
 	HighElfFemale03 : https://elderscrolls.fandom.com/wiki/Crystal_Tower_Crafter
 	HighElfFemale04 : https://elderscrolls.fandom.com/wiki/File:High_Elf_avatar_1_(Legends).png
 	HighElfFemale05 : https://elderscrolls.fandom.com/wiki/File:High_Elf_avatar_3_(Legends).png
-	ImperialFemale01:
-	ImperialFemale02:
-	ImperialFemale03:
-	ImperialFemale04:
-	ImperialFemale05:
-	ImperialFemale06:
-	ImperialFemale07:
+	ImperialFemale01: https://elderscrolls.fandom.com/wiki/Cheesemancer
+	ImperialFemale02: https://elderscrolls.fandom.com/wiki/Dragonfire_Wizard
+	ImperialFemale03: https://elderscrolls.fandom.com/wiki/Dragonguard_Outcast
+	ImperialFemale04: https://elderscrolls.fandom.com/wiki/Ebonheart_Oracle
+	ImperialFemale05: https://elderscrolls.fandom.com/wiki/Imperial_Soldier_(Legends)
+	ImperialFemale06: https://elderscrolls.fandom.com/wiki/Cygnus_Standard_Bearer
+	ImperialFemale07: https://elderscrolls.fandom.com/wiki/Enraged_Dragonknight
 	KhajiitFemale01 :
 	KhajiitFemale02 :
 	KhajiitFemale03 :
@@ -264,11 +264,11 @@ PLAYER_MALE:
 	HighElfMale3  : https://elderscrolls.fandom.com/wiki/Studium_Headmaster
 	HighElfMale4  : https://elderscrolls.fandom.com/wiki/Vanus%27s_Scribe
 	HighElfMale5  : https://elderscrolls.fandom.com/wiki/High_Elf_Soldier
-	ImperialMale01:
-	ImperialMale02:
-	ImperialMale03:
-	ImperialMale04:
-	ImperialMale05:
+	ImperialMale01: https://elderscrolls.fandom.com/wiki/Black_Worm_Necromancer
+	ImperialMale02: https://elderscrolls.fandom.com/wiki/Chanter_of_Akatosh
+	ImperialMale03: https://elderscrolls.fandom.com/wiki/Cheydinhal_Sapper
+	ImperialMale04: https://elderscrolls.fandom.com/wiki/Empire_Oathman
+	ImperialMale05: https://elderscrolls.fandom.com/wiki/Imperial_Lackey
 	KhajiitMale01 :
 	KhajiitMale02 :
 	KhajiitMale03 :
