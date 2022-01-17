@@ -1,59 +1,378 @@
-ClassAlterationMage  : 
-ClassApothecary      : 
-ClassArcher          : 
-ClassAssassin        : 
-ClassBarbarian       : 
-ClassBard            : 
-ClassBattleMage      : 
-ClassBeggar          : 
-ClassBlackSmith      : 
-ClassChaurus         : 
-ClassChaurusFlyer    : 
-ClassCitizen         : 
-ClassConjurer        : 
-ClassCrusader        : 
-ClassDeathHound      : 
-ClassDestructionMage : 
-ClassDragon          : 
-ClassDragonPriest    : 
-ClassDuelist         : 
-ClassDwarvenCenturion: 
-ClassDwarvenSphere   : 
-ClassEnchanter       : 
-ClassFalmer          :
-ClassFalmerShaman    :
-ClassFighter         :
-ClassFoodVendor      :
-ClassGargoyle        :
-ClassGiant           :
-ClassHagraven        :
-ClassHealer          :
-ClassHorse           :
-ClassIceWraith       :
-ClassIllusionist     :
-ClassKnight          :
-ClassLurker          :
-ClassMammoth         :
-ClassMiner           :
-ClassMonk            :
-ClassMudCrab         :
-ClassNightblade      :
-ClassNone            :
-ClassPredator        :
-ClassPrey            :
-ClassRanger          :
-ClassRogue           :
-ClassScout           :
-ClassSorcerer        :
-ClassSpellSword      :
-ClassSpider          :
-ClassTank            :
-ClassThief           :
-ClassVampire         :
-ClassWarmonger       :
-ClassWarrior         :
-ClassWerewolf        :
-ClassWitchblade      :
-ClassWizard          :
+CLASSES:
+	ClassAlterationMage  : https://elderscrolls.fandom.com/wiki/Oakflesh
+	ClassApothecary      : https://elderscrolls.fandom.com/wiki/Alchemy_Lab_(Skyrim)
+	ClassArcher          : https://elderscrolls.fandom.com/wiki/Hunting_Bow_(Skyrim)
+	ClassAssassin        : https://elderscrolls.fandom.com/wiki/Dark_Brotherhood_(Skyrim)
+	ClassBarbarian       : https://elderscrolls.fandom.com/wiki/Steel_Battleaxe_(Skyrim)
+	ClassBard            : https://elderscrolls.fandom.com/wiki/Lute_(Skyrim)
+	ClassBattleMage      : https://elderscrolls.fandom.com/wiki/Bound_Sword_(Skyrim)
+	ClassBeggar          : https://elderscrolls.fandom.com/wiki/Ragged_Trousers
+	ClassBlackSmith      : https://skyrim.fandom.com/wiki/Blacksmith_Forge
+	ClassChaurus         : https://elderscrolls.fandom.com/wiki/Chaurus_(Skyrim)
+	ClassCitizen         : https://elderscrolls.fandom.com/wiki/Fine_Clothes
+	ClassConjurer        : https://elderscrolls.fandom.com/wiki/Conjure_Familiar
+	ClassCrusader        : https://en.uesp.net/wiki/Skyrim:Helm_of_the_Crusader
+	ClassDeathHound      : https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/72/CuSith.png/revision/latest?cb=20120810173003
+	ClassDestructionMage : https://elderscrolls.fandom.com/wiki/Spell_Tomes_(Skyrim)
+	ClassDragon          : https://elderscrolls.fandom.com/wiki/Dragons_(Skyrim)
+	ClassDragonPriest    : https://skyrim.fandom.com/wiki/Dukaan_(NPC)
+	ClassDuelist         : https://elderscrolls.fandom.com/wiki/Steel_Dagger_(Skyrim)
+	ClassDwarvenCenturion: https://skyrim.fandom.com/wiki/Dwarven_Centurion
+	ClassDwarvenSphere   : https://skyrim.fandom.com/wiki/Dwarven_Sphere
+	ClassEnchanter       : https://elderscrolls.fandom.com/wiki/Arcane_Enchanter_(Skyrim)
+	ClassFalmer          : https://skyrim.fandom.com/wiki/Falmer
+	ClassFalmerShaman    : https://skyrim.fandom.com/wiki/Falmer
+	ClassFighter         : https://elderscrolls.fandom.com/wiki/Steel_Greatsword_(Skyrim)
+	ClassFoodVendor      : https://elderscrolls.fandom.com/wiki/Sweetroll
+	ClassGargoyle        : https://skyrim.fandom.com/wiki/Gargoyle
+	ClassGiant           : https://skyrim.fandom.com/wiki/Giant
+	ClassHagraven        : https://skyrim.fandom.com/wiki/Hagraven
+	ClassHealer          : https://elderscrolls.fandom.com/wiki/Healing_Hands_(Skyrim)
+	ClassHorse           : https://skyrim.fandom.com/wiki/Horse
+	ClassIceWraith       : https://elderscrolls.fandom.com/wiki/Ice_Wraith_(Skyrim)
+	ClassIllusionist     : https://elderscrolls.fandom.com/wiki/Spell_Tomes_(Skyrim)
+	ClassKnight          : https://elderscrolls.fandom.com/wiki/Steel_Plate_Helmet
+	ClassLurker          : https://skyrim.fandom.com/wiki/Lurker
+	ClassMammoth         : https://skyrim.fandom.com/wiki/Mammoth
+	ClassMiner           : https://elderscrolls.fandom.com/wiki/Pickaxe_(Skyrim)
+	ClassMonk            : https://skyrim.fandom.com/wiki/Hooded_Monk_Robes
+	ClassMudCrab         : https://skyrim.fandom.com/wiki/Mudcrab
+	ClassNightblade      :
+	ClassPredator        : https://skyrim.fandom.com/wiki/Wolf
+	ClassPrey            : https://elderscrolls.fandom.com/wiki/Raw_Beef
+	ClassRanger          : https://elderscrolls.fandom.com/wiki/Long_Bow_(Skyrim)
+	ClassScout           : https://elderscrolls.fandom.com/wiki/Hunting_Bow_(Skyrim)
+	ClassSorcerer        : https://elderscrolls.fandom.com/wiki/Mage%27s_Staff_(Custom)
+	ClassSpellSword      :
+	ClassSpider          : https://skyrim.fandom.com/wiki/Frostbite_Spider
+	ClassTank            : https://elderscrolls.fandom.com/wiki/Steel_Shield_(Skyrim)
+	ClassThief           : https://elderscrolls.fandom.com/wiki/Lock_(Hearthfire)
+	ClassVampire         : https://elderscrolls.fandom.com/wiki/Vampiric_Drain_(Skyrim)
+	ClassWarmonger       : https://elderscrolls.fandom.com/wiki/Ebony_Helmet_(Skyrim)
+	ClassWerewolf        : https://skyrim.fandom.com/wiki/Werewolf
+	ClassWitchblade      :
+	ClassWizard          : https://harrypotter.fandom.com/wiki/Sorting_Hat?file=Sorting_Hat.png
+
+DEFAULT:
+	default         : 
+	default_enemy   : 
+	default_follower: 
+	default_summon  : 
+	unknown         : 
+
+FACTIONS:
+	Bandit Faction              : 
+	BardSingerFaction           : 
+	Blades                      : 
+	Blades Recruits             : 
+	Broken Oar Bandits          : 
+	College of Winterhold       : 
+	Cultist Faction             : 
+	DLC1Vampire                 : 
+	DLC1VampireHunter           : 
+	Forsworn Faction            : 
+	Greybeards                  : 
+	Guard Faction               : 
+	Hunter Faction              : 
+	Imperial Legion             : 
+	MS07BanditFaction           : 
+	Morag Tong Faction          : 
+	NecromancerFaction          : 
+	Penitus Oculatus Faction    : 
+	Reavers                     : 
+	SilverHandFaction           : 
+	Sons of Skyrim              : 
+	Soul Cairn Faction          : 
+	Thalmor                     : 
+	The Companions              : 
+	The Dark Brotherhood        : 
+	Thieves' Guild              : 
+	Vampire Faction             : 
+	Vigilant of Stendarr Faction: 
+	WarlockFaction              : 
+	
+KEYWORDS:
+	ActorTypeAnimal : 
+	ActorTypeDaedra : 
+	ActorTypeDragon : 
+	ActorTypeDwarven: 
+	ActorTypeGhost  : 
+	ActorTypeGiant  : 
+	ActorTypeTroll  : 
+	ActorTypeUndead : 
+	ActorTypeVampire: 
+	
+NPCS:
+	Adelaisa Vendicci      : 
+	Aela the Huntress      : 
+	Agmaer                 : 
+	Ahtar                  : 
+	Annekke Crag-Jumper    : 
+	Anska                  : 
+	Aranea Ienith          : 
+	Argis the Bulwark      : 
+	Athis                  : 
+	Beleval                : 
+	Belrand                : 
+	Benor                  : 
+	Borgakh the Steel Heart: 
+	Brelyna Maryon         : 
+	Calder                 : 
+	Celann                 : 
+	Cosnach                : 
+	CuSith                 : 
+	Derkeethus             : 
+	Durak                  : 
+	Eola                   : 
+	Erandur                : 
+	Erik the Slayer        : 
+	Faendal                : 
+	Farkas                 : 
+	Garmr                  : 
+	Ghorbash the Iron Hand : 
+	Gregor                 : 
+	Illia                  : 
+	Ingjard                : 
+	Iona                   : 
+	J'zargo                : 
+	Jenassa                : 
+	Jordis the Sword-Maiden: 
+	Kharjo                 : 
+	Lob                    : 
+	Lydia                  : 
+	Marcurio               : 
+	Mjoll the Lioness      : 
+	Njada Stonearm         : 
+	Ogol                   : 
+	Onmund                 : 
+	Rayya                  : 
+	Ria                    : 
+	Roggi Knot-Beard       : 
+	Stenvar                : 
+	Sven                   : 
+	Talvas Fathryon        : 
+	Torvar                 : 
+	Ugor                   : 
+	Uthgerd the Unbroken   : 
+	Valdimar               : 
+	Vigilance              : 
+	Vilkas                 : 
+	Vorstag                : 
+
+PLAYER_FEMALE:
+
+	ArgonianFemale01: 
+	ArgonianFemale02:
+	BosmerFemale01  : 
+	BosmerFemale02  :
+	BretonFemale01  : 
+	BretonFemale02  : 
+	BretonFemale03  :
+	DunmerFemale01  : 
+	DunmerFemale02  : 
+	DunmerFemale03  : 
+	HighElfFemale01 : 
+	HighElfFemale02 : 
+	HighElfFemale03 :
+	ImperialFemale01: 
+	ImperialFemale02: 
+	ImperialFemale03: 
+	KhajiitFemale01 : 
+	KhajiitFemale02 : 
+	KhajiitFemale03 :
+	NordFemale01    : 
+	NordFemale02    : 
+	NordFemale03    : 
+	NordFemale04    :
+	OrcFemale01     : 
+	OrcFemale02     : 
+	OrcFemale03     : 
+	OrcFemale04     :
+	RedguardFemale01: 
+	RedguardFemale02: 
+	RedguardFemale03:
+
+PLAYER_GENERIC:
+
+	Generic01: 
+	Generic02: 
+	Generic03: 
+	Generic04: 
+	Generic05: 
+	Generic06: 
+	Generic07: 
+	Generic08: 
+	Generic09:
 
 
+
+PLAYER_MALE:
+
+	ArgonianMale01: 
+	ArgonianMale02:
+	BosmerMale01  : 
+	BosmerMale02  :
+	BretonMale01  : 
+	BretonMale02  : 
+	BretonMale03  : 
+	BretonMale04  :
+	DunmerMale01  : 
+	DunmerMale02  : 
+	DunmerMale03  : 
+	DunmerMale04  : 
+	DunmerMale05  :
+	HighElfMale01 : 
+	HighElfMale02 : 
+	HighElfMale03 :
+	ImperialMale01: 
+	ImperialMale02: 
+	ImperialMale03: 
+	ImperialMale04: 
+	ImperialMale05:
+	KhajiitMale01 : 
+	KhajiitMale02 :
+	NordMale01    : 
+	NordMale02    : 
+	NordMale03    :
+	OrcMale01     : 
+	OrcMale02     : 
+	OrcMale03     :
+	RedguardMale01: 
+	RedguardMale02: 
+	RedguardMale03: 
+	RedguardMale04: 
+	
+RACES:
+
+	unknown                          : 
+	AlduinRace                       : 
+	ArgonianRace                     : 
+	ArgonianRaceVampire              : 
+	AtronachFlameRace                : 
+	AtronachFrostRace                : 
+	AtronachStormRace                : 
+	BearBlackRace                    : 
+	BearBrownRace                    : 
+	BearSnowRace                     : 
+	BretonRace                       : 
+	BretonRaceChild                  : 
+	BretonRaceChildVampire           : 
+	BretonRaceVampire                : 
+	C00GiantOutsideWhiterunRace      : 
+	CartHorseRace                    : 
+	ccBGSSSE035_NixHoundCompanionRace: 
+	ccBGSSSE036_BoneWolfCompanionRace: 
+	ChaurusRace                      : 
+	ChaurusReaperRace                : 
+	ChickenRace                      : 
+	CowRace                          : 
+	DA03BarbasDogRace                : 
+	DA13AfflictedRace                : 
+	DarkElfRace                      : 
+	DarkElfRaceVampire               : 
+	DeerRace                         : 
+	DLC1_BF_ChaurusRace              : 
+	DLC1BlackSkeletonRace            : 
+	DLC1ChaurusHunterRace            : 
+	DLC1DeathHoundCompanionRace      : 
+	DLC1DeathHoundRace               : 
+	DLC1DeerGlowRace                 : 
+	DLC1GargoyleRace                 : 
+	DLC1GargoyleVariantBossRace      : 
+	DLC1GargoyleVariantGreenRace     : 
+	DLC1HuskyArmoredCompanionRace    : 
+	DLC1HuskyArmoredRace             : 
+	DLC1LD_ForgemasterRace           : 
+	DLC1NordRace                     : 
+	DLC1TrollFrostRaceArmored        : 
+	DLC1TrollRaceArmored             : 
+	DLC1UndeadDragonRace             : 
+	DLC1VampireBeastRace             : 
+	DLC2AcolyteDragonPriestRace      : 
+	dlc2AshGuardianRace              : 
+	DLC2AshHopperRace                : 
+	DLC2AshSpawnRace                 : 
+	DLC2BoarRace                     : 
+	DLC2DragonBlackRace              : 
+	DLC2DremoraRace                  : 
+	DLC2dunKarstaagIceWraithRace     : 
+	DLC2DwarvenBallistaRace          : 
+	DLC2HulkingDraugrRace            : 
+	DLC2LurkerRace                   : 
+	DLC2MiraakRace                   : 
+	DLC2MudcrabSolstheimRace         : 
+	DLC2NetchCalfRace                : 
+	DLC2NetchRace                    : 
+	DLC2RieklingRace                 : 
+	DLC2MountedRieklingRace          : 
+	DLC2SeekerRace                   : 
+	dlc2SpectralDragonRace           : 
+	DLC2SprigganBurntRace            : 
+	DLC2WerebearBeastRace            : 
+	DogCompanionRace                 : 
+	DogRace                          : 
+	DragonBlackRace                  : 
+	DragonPriestRace                 : 
+	DragonRace                       : 
+	DraugrMagicRace                  : 
+	DraugrRace                       : 
+	DremoraRace                      : 
+	DwarvenCenturionRace             : 
+	DwarvenSphereRace                : 
+	DwarvenSpiderRace                : 
+	ElderRace                        : 
+	ElderRaceVampire                 : 
+	ElkRace                          : 
+	FalmerFrozenVampRace             : 
+	FalmerRace                       : 
+	FoxRace                          : 
+	FrostbiteSpiderRace              : 
+	FrostbiteSpiderRaceGiant         : 
+	FrostbiteSpiderRaceLarge         : 
+	GiantRace                        : 
+	GoatDomesticsRace                : 
+	GoatRace                         : 
+	HagravenRace                     : 
+	HareRace                         : 
+	HighElfRace                      : 
+	HighElfRaceVampire               : 
+	HorkerRace                       : 
+	HorseRace                        : 
+	IceWraithRace                    : 
+	ImperialRace                     : 
+	ImperialRaceChild                : 
+	ImperialRaceVampire              : 
+	KhajiitRace                      : 
+	KhajiitRaceVampire               : 
+	MammothRace                      : 
+	MG07DogRace                      : 
+	MudcrabRace                      : 
+	NordRace                         : 
+	NordRaceChild                    : 
+	NordRaceVampire                  : 
+	OrcRace                          : 
+	OrcRaceVampire                   : 
+	RedguardRace                     : 
+	RedguardRaceChild                : 
+	RedguardRaceVampire              : 
+	SabreCatRace                     : 
+	SabreCatSnowyRace                : 
+	SkeeverRace                      : 
+	SkeletonArmorRace                : 
+	SkeletonNecroRace                : 
+	SkeletonRace                     : 
+	SlaughterfishRace                : 
+	SprigganEarthMotherRace          : 
+	SprigganMatronRace               : 
+	SprigganRace                     : 
+	TrollFrostRace                   : 
+	TrollRace                        : 
+	UndeadDragonRace                 : 
+	WerewolfBeastRace                : 
+	WhiteStagRace                    : 
+	WispRace                         : 
+	WispShadeRace                    : 
+	WitchlightRace                   : 
+	WolfRace                         : 
+	WoodElfRace                      : 
+	WoodElfRaceVampire               : 
