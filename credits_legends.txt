@@ -109,6 +109,7 @@ NPCS:
 	Adelaisa Vendicci      :
 	Aela the Huntress      :
 	Ahtar                  :
+	Ancano                 : https://elderscrolls.fandom.com/wiki/Ancano_(Legends)
 	Annekke Crag-Jumper    :
 	Anska                  :
 	Aranea Ienith          :
@@ -185,11 +186,11 @@ PLAYER_FEMALE:
 	DunmerFemale06  : https://elderscrolls.fandom.com/wiki/Mournhold_Guardian
 	DunmerFemale07  : https://elderscrolls.fandom.com/wiki/Suran_Pawnbroker
 	DunmerFemale08  : https://elderscrolls.fandom.com/wiki/Varanis_Courier
-	HighElfFemale01 :
-	HighElfFemale02 :
-	HighElfFemale03 :
-	HighElfFemale04 :
-	HighElfFemale05 :
+	HighElfFemale01 : https://elderscrolls.fandom.com/wiki/Clockwork_Apostle
+	HighElfFemale02 : https://elderscrolls.fandom.com/wiki/Crystal_Tower_Acolyte
+	HighElfFemale03 : https://elderscrolls.fandom.com/wiki/Crystal_Tower_Crafter
+	HighElfFemale04 : https://elderscrolls.fandom.com/wiki/File:High_Elf_avatar_1_(Legends).png
+	HighElfFemale05 : https://elderscrolls.fandom.com/wiki/File:High_Elf_avatar_3_(Legends).png
 	ImperialFemale01:
 	ImperialFemale02:
 	ImperialFemale03:
@@ -258,11 +259,11 @@ PLAYER_MALE:
 	DunmerMale05  : https://elderscrolls.fandom.com/wiki/Mournhold_Taskmaster
 	DunmerMale06  : https://elderscrolls.fandom.com/wiki/Telvanni_Arcanist
 	DunmerMale07  : https://elderscrolls.fandom.com/wiki/Forerunner_of_the_Pact
-	HighElfMale1  :
-	HighElfMale2  :
-	HighElfMale3  :
-	HighElfMale4  :
-	HighElfMale5  :
+	HighElfMale1  : https://elderscrolls.fandom.com/wiki/Naarifin%27s_Elite
+	HighElfMale2  : https://elderscrolls.fandom.com/wiki/Rayvat_the_Mage
+	HighElfMale3  : https://elderscrolls.fandom.com/wiki/Studium_Headmaster
+	HighElfMale4  : https://elderscrolls.fandom.com/wiki/Vanus%27s_Scribe
+	HighElfMale5  : https://elderscrolls.fandom.com/wiki/High_Elf_Soldier
 	ImperialMale01:
 	ImperialMale02:
 	ImperialMale03:
