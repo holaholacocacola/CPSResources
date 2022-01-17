@@ -107,57 +107,54 @@ KEYWORDS:
 NPCS:
 
 	Adelaisa Vendicci      : https://elderscrolls.fandom.com/wiki/Fifth_Legion_Trainer
-	Aela the Huntress      :
-	Ahtar                  :
+	Aela the Huntress      : https://elderscrolls.fandom.com/wiki/Aela_the_Huntress_(Legends)
+	Ahtar                  : https://elderscrolls.fandom.com/wiki/Morthal_Executioner
 	Ancano                 : https://elderscrolls.fandom.com/wiki/Ancano_(Legends)
-	Annekke Crag-Jumper    :
+	Annekke Crag-Jumper    : https://elderscrolls.fandom.com/wiki/Aela%27s_Huntmate
 	Anska                  : https://elderscrolls.fandom.com/wiki/Disciple_of_Namira
 	Aranea Ienith          :
-	Argis the Bulwark      :
+	Argis the Bulwark      : https://elderscrolls.fandom.com/wiki/Jorunn%27s_Vanguard
 	Athis                  : https://elderscrolls.fandom.com/wiki/Brutal_Ashlander
 	Beleval                : https://elderscrolls.fandom.com/wiki/Valenwood_Sentry
-	Benor                  :
+	Benor                  : https://elderscrolls.fandom.com/wiki/Morthal_Watchman
 	Borgakh the Steel Heart:
 	Brelyna Maryon         : https://elderscrolls.fandom.com/wiki/Cunning_Ally
-	Calder                 :
+	Calder                 : https://elderscrolls.fandom.com/wiki/Fearless_Northlander
 	Celann                 : https://elderscrolls.fandom.com/wiki/Corsair_(Legends)
 	Derkeethus             : https://elderscrolls.fandom.com/wiki/Argonian_Recruit
 	Durak                  :
 	Eola                   : https://elderscrolls.fandom.com/wiki/Expert_Atromancer
 	Erandur                : https://elderscrolls.fandom.com/wiki/Tel_Vos_Magister
-	Erik the Slayer        :
+	Erik the Slayer        : https://elderscrolls.fandom.com/wiki/Stormcloak_Avenger
 	Faendal                : https://elderscrolls.fandom.com/wiki/Woodland_Lookout
 	Familiar               :
-	Farkas                 :
-	Frea                   :
+	Farkas                 : https://elderscrolls.fandom.com/wiki/Grim_Shield-Brother
+	Frea                   : https://elderscrolls.fandom.com/wiki/File:Recruit_(Nord)_card_art.png
 	Ghorbash the Iron Hand :
-	Gregor                 :
+	Gregor                 : https://elderscrolls.fandom.com/wiki/Mercenary_Captain
 	Illia                  : https://elderscrolls.fandom.com/wiki/Empire_Dreadmage
-	Ingjard                :
-	Iona                   :
+	Ingjard                : https://elderscrolls.fandom.com/wiki/File:Nord_avatar_2_(Legends).png
+	Iona                   : https://elderscrolls.fandom.com/wiki/Guildsworn_Incendiary
 	J'zargo                : https://elderscrolls.fandom.com/wiki/Experimental_Scroll
 	Jenassa                : https://elderscrolls.fandom.com/wiki/Ashlander_Punisher
-	Jordis the Sword-Maiden:
+	Jordis the Sword-Maiden: https://elderscrolls.fandom.com/wiki/Relentless_Raider
 	Kharjo                 : https://elderscrolls.fandom.com/wiki/Caravan_Enforcer
-	Lydia                  :
+	Lydia                  : https://elderscrolls.fandom.com/wiki/Loyal_Housecarl
 	Marcurio               : https://elderscrolls.fandom.com/wiki/Wind_Keep_Spellsword
-	Mjoll the Lioness      :
-	Njada Stonearm         :
+	Mjoll the Lioness      : https://elderscrolls.fandom.com/wiki/Blades_Flanker
+	Njada Stonearm         : https://elderscrolls.fandom.com/wiki/Aela%27s_Huntmate
 	Ogol                   :
 	Onmund                 : https://elderscrolls.fandom.com/wiki/Manic_Jack
 	Rayya                  :
 	Ria                    : https://elderscrolls.fandom.com/wiki/Graceful_Myrmidon
 	Serana                 :
-	Stenvar                :
+	Stenvar                : https://elderscrolls.fandom.com/wiki/Mighty_Ally
 	Talvas Fathryon        : https://elderscrolls.fandom.com/wiki/Renegade_Magister
-	Torvar                 :
+	Torvar                 : https://elderscrolls.fandom.com/wiki/Desperate_Captive
 	Teldryn Sero           : https://elderscrolls.fandom.com/wiki/Temple_Conjurer
 	Ugor                   :
-	Uthgerd the Unbroken   :
-	Valdimar               :
-	Vigilance              :
-	Vilkas                 :
-	Vorstag                :
+	Uthgerd the Unbroken   : https://elderscrolls.fandom.com/wiki/Initiate_of_Hircine
+	Vilkas                 : https://elderscrolls.fandom.com/wiki/Grim_Shield-Brother
 	
 
 PLAYER_FEMALE:
@@ -204,12 +201,12 @@ PLAYER_FEMALE:
 	KhajiitFemale04 : https://elderscrolls.fandom.com/wiki/Mythic_Dawn_Zealot
 	KhajiitFemale05 : https://elderscrolls.fandom.com/wiki/File:Khajiit_avatar_1_(Legends).png
 	KhajiitFemale06 : https://elderscrolls.fandom.com/wiki/File:Khajiit_avatar_2_(Legends).png
-	NordFemale01    :
-	NordFemale02    :
-	NordFemale03    :
-	NordFemale04    :
-	NordFemale05    :
-	NordFemale06    :
+	NordFemale01    : https://elderscrolls.fandom.com/wiki/Fighters_Guild_Steward
+	NordFemale02    : https://elderscrolls.fandom.com/wiki/Guildsworn_Bloodluster
+	NordFemale03    : https://elderscrolls.fandom.com/wiki/Inspiring_Stormcloak
+	NordFemale04    : https://elderscrolls.fandom.com/wiki/Star-Sung_Bard
+	NordFemale05    : https://elderscrolls.fandom.com/wiki/Ulfric%27s_Zealot
+	NordFemale06    : https://elderscrolls.fandom.com/wiki/Young_Dragonborn
 	OrcFemale01     :
 	OrcFemale02     :
 	OrcFemale03     :
@@ -274,11 +271,11 @@ PLAYER_MALE:
 	KhajiitMale03 : https://elderscrolls.fandom.com/wiki/Servant_of_Ja-Kha%27jay
 	KhajiitMale04 : https://elderscrolls.fandom.com/wiki/Tenarr_Zalviit_Lurker
 	KhajiitMale05 : https://elderscrolls.fandom.com/wiki/Rajhini_Highwayman
-	NordMale01    :
-	NordMale02    :
-	NordMale03    :
-	NordMale04    :
-	NordMale05    :
+	NordMale01    : https://elderscrolls.fandom.com/wiki/Cleric_of_Kyne
+	NordMale02    : https://elderscrolls.fandom.com/wiki/Cliffside_Lookout
+	NordMale03    : https://elderscrolls.fandom.com/wiki/Keeper_of_the_Gates
+	NordMale04    : https://elderscrolls.fandom.com/wiki/Riften_Pillager
+	NordMale05    : https://elderscrolls.fandom.com/wiki/Whiterun_Recruit
 	OrcMale01     :
 	OrcMale02     :
 	OrcMale03     :
