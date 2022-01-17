@@ -155,36 +155,36 @@ NPCS:
 
 PLAYER_FEMALE:
 
-	ArgonianFemale01: 
-	ArgonianFemale02:
-	BosmerFemale01  : 
-	BosmerFemale02  :
-	BretonFemale01  : 
-	BretonFemale02  : 
-	BretonFemale03  :
-	DunmerFemale01  : 
-	DunmerFemale02  : 
-	DunmerFemale03  : 
-	HighElfFemale01 : 
-	HighElfFemale02 : 
-	HighElfFemale03 :
-	ImperialFemale01: 
-	ImperialFemale02: 
-	ImperialFemale03: 
-	KhajiitFemale01 : 
-	KhajiitFemale02 : 
-	KhajiitFemale03 :
-	NordFemale01    : 
-	NordFemale02    : 
-	NordFemale03    : 
-	NordFemale04    :
-	OrcFemale01     : 
-	OrcFemale02     : 
-	OrcFemale03     : 
-	OrcFemale04     :
-	RedguardFemale01: 
-	RedguardFemale02: 
-	RedguardFemale03:
+	ArgonianFemale01: https://static.wikia.nocookie.net/skyrim_gamepedia/images/c/c0/Deeja.png/revision/latest?cb=20120211140800
+	ArgonianFemale02: https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/9b/Shahvee.png/revision/latest?cb=20120211141223
+	BosmerFemale01  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/08/Nimphaneth.png/revision/latest?cb=20120613210615
+	BosmerFemale02  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/0b/Nivenor.png/revision/latest?cb=20120209213717
+	BretonFemale01  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/30/Voada.png/revision/latest?cb=20120522141222
+	BretonFemale02  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/0b/Rhiada.png/revision/latest?cb=20120615144625
+	BretonFemale03  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/a/a5/JulienneLylvieve.png/revision/latest?cb=20120529145315
+	DunmerFemale01  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/1/1e/AduriSarethi.png/revision/latest?cb=20120616194502
+	DunmerFemale02  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/88/DinyaBalu.png/revision/latest?cb=20120601193718
+	DunmerFemale03  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/9d/IdesaSadri.png/revision/latest?cb=20120412132652
+	HighElfFemale01 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/59/Nirya.png/revision/latest?cb=20120405181819
+	HighElfFemale02 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/5e/Reldith.png/revision/latest?cb=20120529120858
+	HighElfFemale03 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/a/a9/Valie.png/revision/latest?cb=20120615115050
+	ImperialFemale01: https://static.wikia.nocookie.net/skyrim_gamepedia/images/6/6e/GannaUriel.png/revision/latest?cb=20120611183819
+	ImperialFemale02: https://static.wikia.nocookie.net/skyrim_gamepedia/images/1/1f/GemmaUriel.png/revision/latest?cb=20120611183859
+	ImperialFemale03: https://static.wikia.nocookie.net/skyrim_gamepedia/images/1/1d/Raen.png/revision/latest?cb=20120618140221
+	KhajiitFemale01 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/4/40/Razhinda.png/revision/latest?cb=20120211140644
+	KhajiitFemale02 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/c/c6/Shavari.png/revision/latest?cb=20120211140644
+	KhajiitFemale03 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/e/ee/Tsavani.png/revision/latest?cb=20120211140800
+	NordFemale01    : https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/b0/BanditLeader1HNordF_Lvl1-13.png/revision/latest?cb=20120523130347
+	NordFemale02    : https://static.wikia.nocookie.net/skyrim_gamepedia/images/a/ae/BanditLeader1HNordF_Lvl25-28.png/revision/latest?cb=20120523130540
+	NordFemale03    : https://static.wikia.nocookie.net/skyrim_gamepedia/images/c/c8/BanditMagicNordF_Lvl19-24.png/revision/latest?cb=20120529124613
+	NordFemale04    : https://static.wikia.nocookie.net/skyrim_gamepedia/images/6/6c/BanditMagicNordF_Lvl25.png/revision/latest?cb=20120529124039
+	OrcFemale01     : https://static.wikia.nocookie.net/skyrim_gamepedia/images/2/2a/Arob.png/revision/latest?cb=20120613201702
+	OrcFemale02     : https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/de/Ghak.png/revision/latest?cb=20120613203518
+	OrcFemale03     : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/59/Gul.png/revision/latest?cb=20120613205150
+	OrcFemale04     : https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/95/Ugor.png/revision/latest?cb=20120211145847
+	RedguardFemale01: https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/8b/Ramati.png/revision/latest?cb=20120608175834
+	RedguardFemale02: https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/95/Umana.png/revision/latest?cb=20120615113828
+	RedguardFemale03: https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/9c/Yisra.png/revision/latest?cb=20120417173616
 
 PLAYER_GENERIC:
 
