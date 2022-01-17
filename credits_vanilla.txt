@@ -54,42 +54,36 @@ CLASSES:
 	ClassWizard          : https://harrypotter.fandom.com/wiki/Sorting_Hat?file=Sorting_Hat.png
 
 DEFAULT:
-	default         : 
-	default_enemy   : 
-	default_follower: 
-	default_summon  : 
-	unknown         : 
+	default         : https://www.pinterest.com/pin/847802698574931694/
+	default_enemy   : https://www.pinterest.com/pin/847802698574931694/
+	default_follower: https://elderscrolls.fandom.com/wiki/Shrine_of_Talos
+	default_summon  : https://elderscrolls.fandom.com/wiki/Conjure_Familiar
 
 FACTIONS:
-	Bandit Faction              : 
-	BardSingerFaction           : 
-	Blades                      : 
-	Blades Recruits             : 
-	Broken Oar Bandits          : 
-	College of Winterhold       : 
-	Cultist Faction             : 
-	DLC1Vampire                 : 
-	DLC1VampireHunter           : 
-	Forsworn Faction            : 
-	Greybeards                  : 
-	Guard Faction               : 
-	Hunter Faction              : 
-	Imperial Legion             : 
-	MS07BanditFaction           : 
-	Morag Tong Faction          : 
-	NecromancerFaction          : 
-	Penitus Oculatus Faction    : 
-	Reavers                     : 
-	SilverHandFaction           : 
-	Sons of Skyrim              : 
+	Bandit Faction              : https://elderscrolls.fandom.com/wiki/Coin_Purse
+	BardSingerFaction           : https://elderscrolls.fandom.com/wiki/Lute_(Skyrim)
+	Blades                      : https://elderscrolls.fandom.com/wiki/Blades_Sword_(Skyrim)
+	College of Winterhold       : https://elderscrolls.fandom.com/wiki/College_of_Winterhold_(Skyrim)?file=TESV_Banner_Winterhold.png
+	Cultist Faction             : https://en.uesp.net/wiki/Lore:Hermaeus_Mora
+	DLC1Vampire                 : https://en.uesp.net/wiki/Online:Furnishing_Pack:_Molag_Bal_Bundle
+	DLC1VampireHunter           : https://elderscrolls.fandom.com/wiki/Dawnguard_(Faction)
+	Forsworn Faction            : https://elderscrolls.fandom.com/wiki/Forsworn_Sword
+	Greybeards                  : https://elderscrolls.fandom.com/wiki/The_Greybeards
+	Guard Faction               : https://elderscrolls.fandom.com/wiki/Stormcloak_Helmet
+	Hunter Faction              : https://elderscrolls.fandom.com/wiki/Hunting_Bow_(Skyrim)
+	Imperial Legion             : https://en.uesp.net/wiki/File:SR-banner-Castle_Dour.png 
+	Morag Tong Faction          : https://elderscrolls.fandom.com/wiki/Morag_Tong?file=Morag_Tong_Banner_-_Morrowind.png
+	NecromancerFaction          : https://en.uesp.net/wiki/Lore:Order_of_the_Black_Worm
+	Penitus Oculatus Faction    : https://tes-sandbox.fandom.com/wiki/The_Penitus_Oculatus_(Burned-Mane_Canon)
+	SilverHandFaction           : https://en.uesp.net/wiki/File:ON-banner-Silver_Dawn.png
+	Sons of Skyrim              : https://en.uesp.net/wiki/Skyrim:Stormcloaks
 	Soul Cairn Faction          : 
-	Thalmor                     : 
-	The Companions              : 
-	The Dark Brotherhood        : 
-	Thieves' Guild              : 
-	Vampire Faction             : 
-	Vigilant of Stendarr Faction: 
-	WarlockFaction              : 
+	Thalmor                     : https://en.uesp.net/wiki/File:SR-banner-Thalmor.png
+	The Companions              : https://en.uesp.net/wiki/File:SR-banner-Companions.png
+	The Dark Brotherhood        : https://elderscrolls.fandom.com/wiki/Dark_Brotherhood_(Skyrim)
+	Thieves' Guild              : https://en.uesp.net/wiki/File:SR-banner-Thieves_Guild.png
+	Vigilant of Stendarr Faction: https://elderscrolls.fandom.com/wiki/Amulet_of_Stendarr
+	WarlockFaction              : https://elderscrolls.fandom.com/wiki/Destruction_(Skyrim)?file=SkillDestruction.png
 	
 KEYWORDS:
 	ActorTypeAnimal : 
