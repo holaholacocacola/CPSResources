@@ -290,114 +290,102 @@ PLAYER_MALE:
 
 RACES:
 
-AlduinRace                       : 
+AlduinRace                       : https://elderscrolls.fandom.com/wiki/Alduin_(Legends)
 ArgonianRace                     : 
-ArgonianRaceVampire              : 
-AtronachFlameRace                : 
-AtronachFrostRace                : 
-AtronachStormRace                : 
-BearBlackRace                    : 
+AtronachFlameRace                : https://elderscrolls.fandom.com/wiki/Flame_Atronach_(Legends)
+AtronachFrostRace                : https://elderscrolls.fandom.com/wiki/Frost_Atronach_(Legends)
+AtronachStormRace                : https://elderscrolls.fandom.com/wiki/Storm_Atronach_(Legends)
+BearBlackRace                    : https://elderscrolls.fandom.com/wiki/Cave_Bear_(Legends)
 BearBrownRace                    : 
 BearSnowRace                     : 
 BretonRace                       : 
 BretonRaceChild                  : 
-BretonRaceChildVampire           : 
-BretonRaceVampire                : 
+BretonRaceChildVampire           : https://elderscrolls.fandom.com/wiki/Ageless_Vampire 
 C00GiantOutsideWhiterunRace      : 
 C06WolfSpiritRace                : 
 CartHorseRace                    : 
-CcBGSSSE035_NixHoundCompanionRace: 
+CcBGSSSE035_NixHoundCompanionRace: https://elderscrolls.fandom.com/wiki/Nix-Hound_(Legends)
 CcBGSSSE036_BoneWolfCompanionRace: 
-ChaurusRace                      : 
-ChaurusReaperRace                : 
-ChickenRace                      : 
+ChaurusRace                      : https://elderscrolls.fandom.com/wiki/Chaurus_(Card)
+ChaurusReaperRace                : https://elderscrolls.fandom.com/wiki/Chaurus_Reaper_(Legends)
+ChickenRace                      : https://elderscrolls.fandom.com/wiki/Prized_Chicken
 CowRace                          : 
-DA03BarbasDogRace                : 
-DA13AfflictedRace                : 
+DA03BarbasDogRace                : https://elderscrolls.fandom.com/wiki/Barbas_(Legends)
 DarkElfRace                      : 
-DarkElfRaceVampire               : 
 DeerRace                         : 
 DLC1_BF_ChaurusRace              : 
-DLC1BlackSkeletonRace            : 
-DLC1ChaurusHunterRace            : 
-DLC1DeathHoundCompanionRace      : 
-DLC1DeathHoundRace               : 
+DLC1BlackSkeletonRace            : https://elderscrolls.fandom.com/wiki/Risen_Dead_(Legends)
+DLC1ChaurusHunterRace            : https://elderscrolls.fandom.com/wiki/Chaurus_Breeding_Pit
+DLC1DeathHoundCompanionRace      : https://elderscrolls.fandom.com/wiki/Death_Hound_(Legends)
+DLC1DeathHoundRace               : https://elderscrolls.fandom.com/wiki/Death_Hound_(Legends)
 DLC1DeerGlowRace                 : 
-DLC1GargoyleRace                 : 
-DLC1GargoyleVariantBossRace      : 
-DLC1GargoyleVariantGreenRace     : 
+DLC1GargoyleRace                 : https://elderscrolls.fandom.com/wiki/Gargoyle_(Card)
+DLC1GargoyleVariantBossRace      : https://elderscrolls.fandom.com/wiki/Gargoyle_(Card)
+DLC1GargoyleVariantGreenRace     : https://elderscrolls.fandom.com/wiki/Gargoyle_(Card)
 DLC1HuskyArmoredCompanionRace    : 
 DLC1HuskyArmoredRace             : 
 DLC1HuskyBareCompanionRace       : 
 DLC1HuskyBareRace                : 
 DLC1LD_ForgemasterRace           : 
 DLC1NordRace                     : 
-DLC1SoulCairnSkeletonArmorRace   : 
-DLC1SoulCairnSkeletonNecroRace   : 
-DLC1SoulCairnSoulWispRace        : 
-DLC1TrollFrostRaceArmored        : 
-DLC1TrollRaceArmored             : 
+DLC1SoulCairnSkeletonArmorRace   : https://elderscrolls.fandom.com/wiki/Wandering_Skeleton
 DLC1UndeadDragonRace             : 
-DLC1VampireBeastRace             : 
-DLC2AcolyteDragonPriestRace      : 
+DLC1VampireBeastRace             : https://elderscrolls.fandom.com/wiki/Night_Talon_Lord
+DLC2AcolyteDragonPriestRace      : https://elderscrolls.fandom.com/wiki/Hallowed_Deathpriest
 Dlc2AshGuardianRace              : 
 DLC2AshHopperRace                : 
-DLC2AshSpawnRace                 : 
-DLC2BoarRace                     : 
-DLC2DragonBlackRace              : 
-DLC2DremoraRace                  : 
+DLC2AshSpawnRace                 : https://elderscrolls.fandom.com/wiki/Lame_Corprus_(Legends)
+DLC2BoarRace                     : https://elderscrolls.fandom.com/wiki/Tusked_Bristleback_(Legends)
+DLC2DragonBlackRace              : https://elderscrolls.fandom.com/wiki/Serpentine_Stalker
+DLC2DremoraRace                  : https://elderscrolls.fandom.com/wiki/Dremora_Markynaz_(Legends)
 DLC2dunKarstaagIceWraithRace     : 
-DLC2DwarvenBallistaRace          : 
+DLC2DwarvenBallistaRace          : https://elderscrolls.fandom.com/wiki/Dwarven_Ballista_(Legends)
 DLC2GhostFrostGiantRace          : 
-DLC2HulkingDraugrRace            : 
+DLC2HulkingDraugrRace            : https://elderscrolls.fandom.com/wiki/Hulking_Draugr_(Legends)
 DLC2LurkerRace                   : 
 DLC2MiraakRace                   : 
 DLC2MudcrabSolstheimRace         : 
 DLC2NetchCalfRace                : 
-DLC2NetchRace                    : 
+DLC2NetchRace                    : https://elderscrolls.fandom.com/wiki/Betty_Netch_(Legends)
 DLC2SeekerRace                   : 
-Dlc2SpectralDragonRace           : 
 DLC2SprigganBurntRace            : 
 DLC2WerebearBeastRace            : 
 DogCompanionRace                 : 
 DogRace                          : 
 DragonBlackRace                  : 
-DragonPriestRace                 : 
-DragonRace                       : 
-DraugrMagicRace                  : 
-DraugrRace                       : 
-DremoraRace                      : 
-DwarvenCenturionRace             : 
-DwarvenSphereRace                : 
-DwarvenSpiderRace                : 
+DragonPriestRace                 : https://elderscrolls.fandom.com/wiki/Nahkriin,_Dragon_Priest
+DragonRace                       : https://elderscrolls.fandom.com/wiki/Ironscale_Dragon
+DraugrMagicRace                  : https://elderscrolls.fandom.com/wiki/Deadly_Draugr 
+DraugrRace                       : https://elderscrolls.fandom.com/wiki/Deadly_Draugr 
+DremoraRace                      : https://elderscrolls.fandom.com/wiki/Kynreeve_Champion
+DwarvenCenturionRace             : https://elderscrolls.fandom.com/wiki/Dwarven_Centurion_(Legends)
+DwarvenSphereRace                : https://elderscrolls.fandom.com/wiki/Dwarven_Sphere_(Legends)
+DwarvenSpiderRace                : https://elderscrolls.fandom.com/wiki/Dwarven_Spider_(Legends)
 ElderRace                        : 
 ElderRaceVampire                 : 
-ElkRace                          : 
+ElkRace                          : https://elderscrolls.fandom.com/wiki/Wilds_Incarnate
 FalmerFrozenVampRace             : 
-FalmerRace                       : 
+FalmerRace                       : https://elderscrolls.fandom.com/wiki/Sightless_Skulk
 FoxRace                          : 
-FrostbiteSpiderRace              : 
-FrostbiteSpiderRaceGiant         : 
-FrostbiteSpiderRaceLarge         : 
-GiantRace                        : 
+FrostbiteSpiderRace              : https://elderscrolls.fandom.com/wiki/Cavern_Spinner
+FrostbiteSpiderRaceGiant         : https://elderscrolls.fandom.com/wiki/Protective_Spider
+FrostbiteSpiderRaceLarge         : https://elderscrolls.fandom.com/wiki/Aggressive_Spider
+GiantRace                        : https://elderscrolls.fandom.com/wiki/Stoutheart_Giant
 GoatDomesticsRace                : 
-GoatRace                         : 
+GoatRace                         : https://elderscrolls.fandom.com/wiki/Obstinate_Goat
 HagravenRace                     : 
 HareRace                         : 
 HighElfRace                      : 
-HighElfRaceVampire               : 
-HorkerRace                       : 
+HorkerRace                       : https://elderscrolls.fandom.com/wiki/Raging_Horker
 HorseRace                        : 
 IceWraithRace                    : 
 ImperialRace                     : 
 ImperialRaceChild                : 
-ImperialRaceVampire              : 
 KhajiitRace                      : 
-KhajiitRaceVampire               : 
 MagicAnomalyRace                 : 
-MammothRace                      : 
+MammothRace                      : https://elderscrolls.fandom.com/wiki/Young_Mammoth
 MG07DogRace                      : 
-MudcrabRace                      : 
+MudcrabRace                      : https://elderscrolls.fandom.com/wiki/Mudcrab_Anklesnapper
 NordRace                         : 
 NordRaceAstrid                   : 
 NordRaceChild                    : 
@@ -407,29 +395,28 @@ OrcRaceVampire                   :
 RedguardRace                     : 
 RedguardRaceChild                : 
 RedguardRaceVampire              : 
-SabreCatRace                     : 
-SabreCatSnowyRace                : 
-SkeeverRace                      : 
-SkeeverWhiteRace                 : 
-SkeletonArmorRace                : 
-SkeletonNecroPriestRace          : 
-SkeletonNecroRace                : 
-SkeletonRace                     : 
+SabreCatRace                     : https://elderscrolls.fandom.com/wiki/Senche-Tiger_(Legends)
+SabreCatSnowyRace                : https://elderscrolls.fandom.com/wiki/Snowy_Sabre_Cat_(Legends)
+SkeeverRace                      : https://elderscrolls.fandom.com/wiki/Skeever_(Card)
+SkeeverWhiteRace                 : https://elderscrolls.fandom.com/wiki/Skeever_(Card)
+SkeletonNecroPriestRace          : https://elderscrolls.fandom.com/wiki/Skeletal_Mage_(Legends)
+SkeletonNecroRace                : https://elderscrolls.fandom.com/wiki/Soul_Wraith_(Legends)
+SkeletonRace                     : https://elderscrolls.fandom.com/wiki/Skeleton_Champion_(Legends)
 SlaughterfishRace                : 
-SprigganEarthMotherRace          : 
-SprigganMatronRace               : 
-SprigganRace                     : 
-TrollFrostRace                   : 
-TrollRace                        : 
-UndeadDragonRace                 : 
-WerewolfBeastRace                : 
+SprigganEarthMotherRace          : https://elderscrolls.fandom.com/wiki/Wild_Spriggan
+SprigganMatronRace               : https://elderscrolls.fandom.com/wiki/Eldergleam_Matron 
+SprigganRace                     : https://elderscrolls.fandom.com/wiki/Wild_Beastcaller
+TrollFrostRace                   : https://elderscrolls.fandom.com/wiki/Frost_Troll_(Legends)
+TrollRace                        : https://elderscrolls.fandom.com/wiki/Lowland_Troll
+UndeadDragonRace                 : https://elderscrolls.fandom.com/wiki/Skeletal_Dragon_(Legends)
+WerewolfBeastRace                : https://elderscrolls.fandom.com/wiki/Corpselight_Beast
 WhiteStagRace                    : 
-WispRace                         : 
-WispShadeRace                    : 
-WitchlightRace                   : 
-WolfRace                         : 
+WispRace                         : https://elderscrolls.fandom.com/wiki/Will-o-the-Wisp_(Legends) 
+WispShadeRace                    : https://elderscrolls.fandom.com/wiki/Sundered_Shade
+WitchlightRace                   : https://elderscrolls.fandom.com/wiki/Wispmother_(Legends)
+WolfRace                         : https://elderscrolls.fandom.com/wiki/Apex_Wolf
 WoodElfRace                      : 
-WoodElfRaceVampire               : 
+Zombielich:                      : https://elderscrolls.fandom.com/wiki/Miscarcand_Lich
 
 chaurusrace? https://elderscrolls.fandom.com/wiki/Chaurus_Breeding_Pit
 
