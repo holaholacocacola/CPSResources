@@ -186,20 +186,6 @@ PLAYER_FEMALE:
 	RedguardFemale02: https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/95/Umana.png/revision/latest?cb=20120615113828
 	RedguardFemale03: https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/9c/Yisra.png/revision/latest?cb=20120417173616
 
-PLAYER_GENERIC:
-
-	Generic01: 
-	Generic02: 
-	Generic03: 
-	Generic04: 
-	Generic05: 
-	Generic06: 
-	Generic07: 
-	Generic08: 
-	Generic09:
-
-
-
 PLAYER_MALE:
 
 	ArgonianMale01: 
@@ -238,135 +224,91 @@ PLAYER_MALE:
 	
 RACES:
 
-	unknown                          : 
-	AlduinRace                       : 
-	ArgonianRace                     : 
-	ArgonianRaceVampire              : 
-	AtronachFlameRace                : 
-	AtronachFrostRace                : 
-	AtronachStormRace                : 
-	BearBlackRace                    : 
-	BearBrownRace                    : 
-	BearSnowRace                     : 
-	BretonRace                       : 
-	BretonRaceChild                  : 
-	BretonRaceChildVampire           : 
-	BretonRaceVampire                : 
-	C00GiantOutsideWhiterunRace      : 
-	CartHorseRace                    : 
-	ccBGSSSE035_NixHoundCompanionRace: 
+	AlduinRace                       : https://static.wikia.nocookie.net/skyrim_gamepedia/images/2/23/Alduin_infobox.png/revision/latest?cb=20131108124828
+	ArgonianRace                     : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
+	AtronachFlameRace                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/2/2e/FlameAtronach.png/revision/latest?cb=20120209125922
+	AtronachFrostRace                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/8f/FrostAtronach.png/revision/latest?cb=20120112194234
+	AtronachStormRace                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/e/e4/StormAtronach.png/revision/latest?cb=20120209132552
+	BearBlackRace                    : https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/9d/CaveBear.png/revision/latest?cb=20120212163136
+	BearBrownRace                    : https://static.wikia.nocookie.net/skyrim_gamepedia/images/a/a4/Bear.png/revision/latest?cb=20120212162917
+	BearSnowRace                     : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/55/SnowBear.png/revision/latest?cb=20120208221059
+	BretonRace                       : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
 	ccBGSSSE036_BoneWolfCompanionRace: 
-	ChaurusRace                      : 
-	ChaurusReaperRace                : 
-	ChickenRace                      : 
-	CowRace                          : 
-	DA03BarbasDogRace                : 
-	DA13AfflictedRace                : 
-	DarkElfRace                      : 
-	DarkElfRaceVampire               : 
-	DeerRace                         : 
-	DLC1_BF_ChaurusRace              : 
-	DLC1BlackSkeletonRace            : 
-	DLC1ChaurusHunterRace            : 
-	DLC1DeathHoundCompanionRace      : 
-	DLC1DeathHoundRace               : 
-	DLC1DeerGlowRace                 : 
-	DLC1GargoyleRace                 : 
-	DLC1GargoyleVariantBossRace      : 
-	DLC1GargoyleVariantGreenRace     : 
-	DLC1HuskyArmoredCompanionRace    : 
-	DLC1HuskyArmoredRace             : 
-	DLC1LD_ForgemasterRace           : 
-	DLC1NordRace                     : 
-	DLC1TrollFrostRaceArmored        : 
-	DLC1TrollRaceArmored             : 
-	DLC1UndeadDragonRace             : 
-	DLC1VampireBeastRace             : 
+	ChaurusRace                      : https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/db/Chaurus.png/revision/latest?cb=20150222164639
+	ChickenRace                      : https://static.wikia.nocookie.net/skyrim_gamepedia/images/a/a3/Chicken.png/revision/latest?cb=20120128130654
+	CowRace                          : https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/84/Cow.png/revision/latest?cb=20120128125319
+	DarkElfRace                      : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
+	DeerRace                         : https://static.wikia.nocookie.net/skyrim_gamepedia/images/2/27/Deer.png/revision/latest?cb=20120208220737
+	DLC1ChaurusHunterRace            : https://static.wikia.nocookie.net/skyrim_gamepedia/images/2/24/ChaurusHunter.png/revision/latest?cb=20120810211724
+	DLC1DeathHoundRace               : https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/72/CuSith.png/revision/latest?cb=20120810173003
+	DLC1GargoyleRace                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/4/44/Gargoyle.png/revision/latest?cb=20120810212448
+	DLC1HuskyArmoredRace             : https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/38/ArmoredHusky.png/revision/latest?cb=20120816200932
+	DLC1TrollRaceArmored             : https://static.wikia.nocookie.net/skyrim_gamepedia/images/4/41/ArmoredTroll.png/revision/latest?cb=20120827161847
+	DLC1UndeadDragonRace             : https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/30/Wamasus.png/revision/latest?cb=20120629120000
+	DLC1VampireBeastRace             : https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/0c/VampireLord.png/revision/latest?cb=20120827115215
 	DLC2AcolyteDragonPriestRace      : 
-	dlc2AshGuardianRace              : 
-	DLC2AshHopperRace                : 
-	DLC2AshSpawnRace                 : 
-	DLC2BoarRace                     : 
+	dlc2AshGuardianRace              : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/5e/AshGuardian.png/revision/latest?cb=20130311234346
+	DLC2AshHopperRace                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/5e/AshGuardian.png/revision/latest?cb=20130311234346
+	DLC2AshSpawnRace                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/2/2f/AshSpawn.png/revision/latest?cb=20130311230726
+	DLC2BoarRace                     : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/5f/Bristleback.png/revision/latest?cb=20130311230706
 	DLC2DragonBlackRace              : 
-	DLC2DremoraRace                  : 
-	DLC2dunKarstaagIceWraithRace     : 
-	DLC2DwarvenBallistaRace          : 
+	DLC2dunKarstaagIceWraithRace     : https://static.wikia.nocookie.net/skyrim_gamepedia/images/4/44/FrostGiant.png/revision/latest?cb=20120813144434
+	DLC2DwarvenBallistaRace          : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/58/DwarvenBallista.png/revision/latest?cb=20131217141101
 	DLC2HulkingDraugrRace            : 
-	DLC2LurkerRace                   : 
+	DLC2LurkerRace                   : https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/b8/Lurker.png/revision/latest?cb=20130311232725
 	DLC2MiraakRace                   : 
 	DLC2MudcrabSolstheimRace         : 
-	DLC2NetchCalfRace                : 
-	DLC2NetchRace                    : 
-	DLC2RieklingRace                 : 
-	DLC2MountedRieklingRace          : 
-	DLC2SeekerRace                   : 
+	DLC2NetchCalfRace                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/d8/NetchCalf.png/revision/latest?cb=20130311230147
+	DLC2NetchRace                    : https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/b8/Netch.png/revision/latest?cb=20130311230039
+	DLC2RieklingRace                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/b3/Riekling.png/revision/latest?cb=20130427172715
+	DLC2MountedRieklingRace          : https://static.wikia.nocookie.net/skyrim_gamepedia/images/6/67/RieklingCharger.png/revision/latest?cb=20130427173542
+	DLC2SeekerRace                   : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/54/Seeker.png/revision/latest?cb=20130311233809
 	dlc2SpectralDragonRace           : 
-	DLC2SprigganBurntRace            : 
+	DLC2SprigganBurntRace            : https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/97/BurntSpriggan.png/revision/latest?cb=20130311230644
 	DLC2WerebearBeastRace            : 
-	DogCompanionRace                 : 
-	DogRace                          : 
+	DogRace                          : https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/35/Dog.png/revision/latest?cb=20120128133822
 	DragonBlackRace                  : 
 	DragonPriestRace                 : 
 	DragonRace                       : 
-	DraugrMagicRace                  : 
-	DraugrRace                       : 
-	DremoraRace                      : 
-	DwarvenCenturionRace             : 
-	DwarvenSphereRace                : 
-	DwarvenSpiderRace                : 
-	ElderRace                        : 
-	ElderRaceVampire                 : 
-	ElkRace                          : 
+	DraugrRace                       : https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/bf/DraugrBoss_Lvl30-39.png/revision/latest?cb=20120612121833
+	DremoraRace                      : https://static.wikia.nocookie.net/skyrim_gamepedia/images/1/18/DremoraLord.png/revision/latest?cb=20120226143419
+	DwarvenCenturionRace             : https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/36/DwarvenCenturion.png/revision/latest?cb=20120322201810
+	DwarvenSphereRace                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/0f/DwarvenSphere.png/revision/latest?cb=20120322201549
+	DwarvenSpiderRace                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/88/DwarvenSpider.png/revision/latest?cb=20120322201706
+	ElkRace                          : https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/32/Elk.png/revision/latest?cb=20120128134440
 	FalmerFrozenVampRace             : 
-	FalmerRace                       : 
-	FoxRace                          : 
-	FrostbiteSpiderRace              : 
-	FrostbiteSpiderRaceGiant         : 
-	FrostbiteSpiderRaceLarge         : 
-	GiantRace                        : 
-	GoatDomesticsRace                : 
-	GoatRace                         : 
-	HagravenRace                     : 
-	HareRace                         : 
-	HighElfRace                      : 
-	HighElfRaceVampire               : 
-	HorkerRace                       : 
-	HorseRace                        : 
-	IceWraithRace                    : 
-	ImperialRace                     : 
-	ImperialRaceChild                : 
-	ImperialRaceVampire              : 
-	KhajiitRace                      : 
-	KhajiitRaceVampire               : 
-	MammothRace                      : 
-	MG07DogRace                      : 
-	MudcrabRace                      : 
-	NordRace                         : 
-	NordRaceChild                    : 
-	NordRaceVampire                  : 
-	OrcRace                          : 
-	OrcRaceVampire                   : 
-	RedguardRace                     : 
-	RedguardRaceChild                : 
-	RedguardRaceVampire              : 
-	SabreCatRace                     : 
-	SabreCatSnowyRace                : 
-	SkeeverRace                      : 
-	SkeletonArmorRace                : 
-	SkeletonNecroRace                : 
-	SkeletonRace                     : 
-	SlaughterfishRace                : 
-	SprigganEarthMotherRace          : 
-	SprigganMatronRace               : 
-	SprigganRace                     : 
-	TrollFrostRace                   : 
-	TrollRace                        : 
+	FalmerRace                       : https://static.wikia.nocookie.net/skyrim_gamepedia/images/2/23/Falmer.png/revision/latest?cb=20120629115417
+	FoxRace                          : https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/73/Fox.png/revision/latest?cb=20120209210530
+	FrostbiteSpiderRace              : https://static.wikia.nocookie.net/skyrim_gamepedia/images/e/ef/FrostbiteSpider.png/revision/latest?cb=20120112190910
+	GiantRace                        : https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/0c/Giant.png/revision/latest?cb=20120209163637
+	GoatRace                         : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/52/Goat.png/revision/latest?cb=20120209210836
+	HagravenRace                     : https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/36/Hagraven.png/revision/latest?cb=20120303125846
+	HareRace                         : https://static.wikia.nocookie.net/skyrim_gamepedia/images/f/fd/Rabbit.png/revision/latest?cb=20120209211953
+	HighElfRace                      : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
+	HorkerRace                       : https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/34/Horker.png/revision/latest?cb=20120112194046
+	HorseRace                        : https://static.wikia.nocookie.net/skyrim_gamepedia/images/c/c3/Horse.png/revision/latest?cb=20120128134155
+	IceWraithRace                    : https://static.wikia.nocookie.net/skyrim_gamepedia/images/6/6a/IceWraith.png/revision/latest?cb=20120112194331
+	ImperialRace                     : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
+	KhajiitRace                      : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
+	MammothRace                      : https://static.wikia.nocookie.net/skyrim_gamepedia/images/a/a5/Mammoth.png/revision/latest?cb=20120128133616
+	MudcrabRace                      : https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/8f/Mudcrab.png/revision/latest?cb=20120128183151
+	NordRace                         : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
+	OrcRace                          : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
+	RedguardRace                     : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
+	SabreCatRace                     : https://static.wikia.nocookie.net/skyrim_gamepedia/images/4/49/SabreCat.png/revision/latest?cb=20120215224219
+	SabreCatSnowyRace                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/1/1c/SnowySabreCat.png/revision/latest?cb=20120215224250
+	SkeeverRace                      : https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/7f/Skeever.png/revision/latest?cb=20120322172330
+	SkeletonNecroRace                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/2/25/CorruptedShade.png/revision/latest?cb=20131217144154
+	SkeletonRace                     : https://static.wikia.nocookie.net/skyrim_gamepedia/images/2/23/Skeleton.png/revision/latest?cb=20120322153752
+	SlaughterfishRace                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/01/Slaughterfish.png/revision/latest?cb=20120322153952
+	SprigganEarthMotherRace          : https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/b4/SprigganEarthMother.png/revision/latest?cb=20120813151622
+	SprigganMatronRace               : https://static.wikia.nocookie.net/skyrim_gamepedia/images/4/44/SprigganMatron.png/revision/latest?cb=20120224130408
+	SprigganRace                     : https://static.wikia.nocookie.net/skyrim_gamepedia/images/6/6f/Spriggan.png/revision/latest?cb=20120224130915
+	TrollFrostRace                   : https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/bd/FrostTroll.png/revision/latest?cb=20120217122857
+	TrollRace                        : https://static.wikia.nocookie.net/skyrim_gamepedia/images/f/f3/Troll.png/revision/latest?cb=20120217122835
 	UndeadDragonRace                 : 
-	WerewolfBeastRace                : 
-	WhiteStagRace                    : 
+	WerewolfBeastRace                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/f/f5/Werewolf.png/revision/latest?cb=20120323140638
 	WispRace                         : 
-	WispShadeRace                    : 
-	WitchlightRace                   : 
-	WolfRace                         : 
-	WoodElfRace                      : 
-	WoodElfRaceVampire               : 
+	WitchlightRace                   : https://static.wikia.nocookie.net/skyrim_gamepedia/images/1/10/Wispmother.png/revision/latest?cb=20120112194301
+	WolfRace                         : https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/7b/Wolf_black.png/revision/latest?cb=20120112194149
+	WoodElfRace                      : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
