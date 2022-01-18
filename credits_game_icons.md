@@ -1,5 +1,9 @@
+All icons used fall under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+
+	![Game Icons Screenshot](gallery/game-icons_class_out.png)
+
 game-icons
-	classes:
+	Classes:
 		ClassAlterationMage          : https://game-icons.net/1x1/delapouite/crescent-staff.html
 		ClassApothecary              : https://game-icons.net/1x1/darkzaitzev/apothecary.html
 		ClassArcher                  : https://game-icons.net/1x1/lorc/high-shot.html
