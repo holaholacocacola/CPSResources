@@ -1,3 +1,5 @@
+https://www.deviantart.com/tokami-fuko <-all deviant art links for races
+
 CLASSES:
 	ClassAlterationMage  : https://elderscrolls.fandom.com/wiki/Oakflesh
 	ClassApothecary      : https://elderscrolls.fandom.com/wiki/Alchemy_Lab_(Skyrim)
@@ -233,7 +235,7 @@ RACES:
 	BearBrownRace                    : https://static.wikia.nocookie.net/skyrim_gamepedia/images/a/a4/Bear.png/revision/latest?cb=20120212162917
 	BearSnowRace                     : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/55/SnowBear.png/revision/latest?cb=20120208221059
 	BretonRace                       : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
-	ccBGSSSE036_BoneWolfCompanionRace: 
+	ccBGSSSE036_BoneWolfCompanionRace: https://en.uesp.net/wiki/Skyrim:Bone_Wolf
 	ChaurusRace                      : https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/db/Chaurus.png/revision/latest?cb=20150222164639
 	ChickenRace                      : https://static.wikia.nocookie.net/skyrim_gamepedia/images/a/a3/Chicken.png/revision/latest?cb=20120128130654
 	CowRace                          : https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/84/Cow.png/revision/latest?cb=20120128125319
@@ -246,37 +248,36 @@ RACES:
 	DLC1TrollRaceArmored             : https://static.wikia.nocookie.net/skyrim_gamepedia/images/4/41/ArmoredTroll.png/revision/latest?cb=20120827161847
 	DLC1UndeadDragonRace             : https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/30/Wamasus.png/revision/latest?cb=20120629120000
 	DLC1VampireBeastRace             : https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/0c/VampireLord.png/revision/latest?cb=20120827115215
-	DLC2AcolyteDragonPriestRace      : 
+	DLC2AcolyteDragonPriestRace      : https://www.deviantart.com/tokami-fuko/art/XPS-and-MMD-TES-V-Dragon-Akolytes-dl-526937579
 	dlc2AshGuardianRace              : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/5e/AshGuardian.png/revision/latest?cb=20130311234346
 	DLC2AshHopperRace                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/5e/AshGuardian.png/revision/latest?cb=20130311234346
 	DLC2AshSpawnRace                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/2/2f/AshSpawn.png/revision/latest?cb=20130311230726
 	DLC2BoarRace                     : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/5f/Bristleback.png/revision/latest?cb=20130311230706
-	DLC2DragonBlackRace              : 
+	DLC2DragonBlackRace              : https://www.deviantart.com/tokami-fuko/art/XPS-TES-V-dead-Dragon-from-Trailer-535572538
 	DLC2dunKarstaagIceWraithRace     : https://static.wikia.nocookie.net/skyrim_gamepedia/images/4/44/FrostGiant.png/revision/latest?cb=20120813144434
 	DLC2DwarvenBallistaRace          : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/58/DwarvenBallista.png/revision/latest?cb=20131217141101
-	DLC2HulkingDraugrRace            : 
+	DLC2HulkingDraugrRace            : https://www.deviantart.com/tokami-fuko/art/Hulking-Draugr-xps-fbx-644539250
 	DLC2LurkerRace                   : https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/b8/Lurker.png/revision/latest?cb=20130311232725
-	DLC2MiraakRace                   : 
-	DLC2MudcrabSolstheimRace         : 
+	DLC2MiraakRace                   : https://www.deviantart.com/tokami-fuko/art/XPS-TES-V-Miraak-pack-531222445
 	DLC2NetchCalfRace                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/d8/NetchCalf.png/revision/latest?cb=20130311230147
 	DLC2NetchRace                    : https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/b8/Netch.png/revision/latest?cb=20130311230039
 	DLC2RieklingRace                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/b3/Riekling.png/revision/latest?cb=20130427172715
 	DLC2MountedRieklingRace          : https://static.wikia.nocookie.net/skyrim_gamepedia/images/6/67/RieklingCharger.png/revision/latest?cb=20130427173542
 	DLC2SeekerRace                   : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/54/Seeker.png/revision/latest?cb=20130311233809
-	dlc2SpectralDragonRace           : 
+	dlc2SpectralDragonRace           : https://www.deviantart.com/tokami-fuko/art/XPS-TES-V-Fire-Wyrm-535112950
 	DLC2SprigganBurntRace            : https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/97/BurntSpriggan.png/revision/latest?cb=20130311230644
-	DLC2WerebearBeastRace            : 
+	DLC2WerebearBeastRace            : https://www.deviantart.com/tokami-fuko/art/XPS-TES-V-Werebear-535053107
 	DogRace                          : https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/35/Dog.png/revision/latest?cb=20120128133822
-	DragonBlackRace                  : 
-	DragonPriestRace                 : 
-	DragonRace                       : 
+	DragonBlackRace                  : https://www.deviantart.com/tokami-fuko/art/XPS-TES-V-Storm-dragon-558455552
+	DragonPriestRace                 : https://www.deviantart.com/tokami-fuko/art/XPS-and-MMD-TES-V-Dragon-Akolytes-dl-526937579
+	DragonRace                       : https://www.deviantart.com/tokami-fuko/art/XPS-TES-Nafaalilargus-the-Red-Dragon-562009259
 	DraugrRace                       : https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/bf/DraugrBoss_Lvl30-39.png/revision/latest?cb=20120612121833
 	DremoraRace                      : https://static.wikia.nocookie.net/skyrim_gamepedia/images/1/18/DremoraLord.png/revision/latest?cb=20120226143419
 	DwarvenCenturionRace             : https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/36/DwarvenCenturion.png/revision/latest?cb=20120322201810
 	DwarvenSphereRace                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/0f/DwarvenSphere.png/revision/latest?cb=20120322201549
 	DwarvenSpiderRace                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/88/DwarvenSpider.png/revision/latest?cb=20120322201706
 	ElkRace                          : https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/32/Elk.png/revision/latest?cb=20120128134440
-	FalmerFrozenVampRace             : 
+	FalmerFrozenVampRace             : https://www.deviantart.com/tokami-fuko/art/XPS-TES-V-Feral-Vampire-Falmers-526661449
 	FalmerRace                       : https://static.wikia.nocookie.net/skyrim_gamepedia/images/2/23/Falmer.png/revision/latest?cb=20120629115417
 	FoxRace                          : https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/73/Fox.png/revision/latest?cb=20120209210530
 	FrostbiteSpiderRace              : https://static.wikia.nocookie.net/skyrim_gamepedia/images/e/ef/FrostbiteSpider.png/revision/latest?cb=20120112190910
@@ -306,9 +307,9 @@ RACES:
 	SprigganRace                     : https://static.wikia.nocookie.net/skyrim_gamepedia/images/6/6f/Spriggan.png/revision/latest?cb=20120224130915
 	TrollFrostRace                   : https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/bd/FrostTroll.png/revision/latest?cb=20120217122857
 	TrollRace                        : https://static.wikia.nocookie.net/skyrim_gamepedia/images/f/f3/Troll.png/revision/latest?cb=20120217122835
-	UndeadDragonRace                 : 
+	UndeadDragonRace                 : https://www.deviantart.com/tokami-fuko/art/XPS-MMD-TES-V-Dragon-skeleton-522111867
 	WerewolfBeastRace                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/f/f5/Werewolf.png/revision/latest?cb=20120323140638
-	WispRace                         : 
+	WispRace                         : https://www.deviantart.com/tokami-fuko/art/XPS-TES-V-Wisp-and-Wisp-Mother-527407389
 	WitchlightRace                   : https://static.wikia.nocookie.net/skyrim_gamepedia/images/1/10/Wispmother.png/revision/latest?cb=20120112194301
 	WolfRace                         : https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/7b/Wolf_black.png/revision/latest?cb=20120112194149
 	WoodElfRace                      : https://elderscrolls.fandom.com/wiki/Races_(Oblivion)?file=Races_Oblivion.png
