@@ -6,7 +6,7 @@
 ## Classes
 
 1. The following class labels are available in all class packs. They are currently hardcoded and looked up in CPS dll's'. This will change in a future update.
-If making a class pack, these are the labels available to replace.
+If making a class pack, these are the labels available to replace. Please see the 
 
 - ClassAlterationMage
 - ClassApothecary
