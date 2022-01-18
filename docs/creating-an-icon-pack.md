@@ -33,7 +33,7 @@ The directory structure is as follows starting from the Data/Interface/Exported/
 └───races
 ```
 
-* Classes contain icons for NPC classes(e.g Warrior, Thief, Mage). Please see the class guide on what available labels are allowed and how an npcs class is determined.
+* Classes contain icons for NPC classes(e.g Warrior, Thief, Mage). Please see the [class-keyword guide](class-keyword-availability.md). guide on what available labels are allowed and how an npcs class is determined.
 * Default contains generic icons (e.g. Summon timers, Difficulty indicators, unknown actor icons)
 * Factions contains NPC faction icons( E.g. Dawnguard, Bandits, Blades)
 * Keywords contain NPC keyword icons. (E.g ActorTypeGhost, ActorTypeGiant) These support overrides but not extending(You cannot add a keyword thats not present)
