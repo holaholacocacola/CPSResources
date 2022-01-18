@@ -1,4 +1,4 @@
-# Icon Pack Tutorial
+# Legends Credits
 
 - [Attribution](#attribution)
 - [Classes](#classes)

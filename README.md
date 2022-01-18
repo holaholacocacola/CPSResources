@@ -1,5 +1,5 @@
-﻿# CPS Icon Pack Resources
-Repository for Skyrim Combat Parameter Series Icons
+﻿# CPS Icon Resources
+Repository for Skyrim Combat Parameters Series Icons
 If you are an end user you do not need to download this repo. Grab an archive from the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/57114?) and go about your day.
 
 
@@ -34,7 +34,7 @@ If using any assets from the asset folder in this repo you must:
 
 - [Game-Icons.Net Pack Credits](credits-game-icons.md)
 - [Legends Pack Credits](credits-legends-pack.md)
-- [Vanilla Pack Credits]
+- [Vanilla Pack Credits](credits-vanilla-pack.md)
 
 ## Special Thanks
 - [UESP](https://en.uesp.net/wiki/) for some racial images
