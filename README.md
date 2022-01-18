@@ -33,7 +33,7 @@ If using any assets from the asset folder in this repo you must:
 2. Indicate it is modified and a link to this repository of the modified source.
 
 - [Game-Icons.Net Pack Credits](credits-game-icons.md)
-- [Legends Pack Credits]
+- [Legends Pack Credits](credits-legends-pack.md)
 - [Vanilla Pack Credits]
 
 ## Special Thanks
