@@ -1,13 +1,13 @@
 ﻿# Icon Pack Tutorial
 
 - [Requirements](#requirements)
-- [Organization and Labels](#organization)
-- [Importing Image Assets](#importing-assets)
-- [Changing Image Compression](#image-compression)
-- [Drag to Stage](#add-to-stage)
-- [Fill in Frame Label](#fill-in-labels)
-- [Validate and Compile](#validation)
-- [Generate a Gallery](#gallery)
+- [Organization and Labels](#organization-and-labels)
+- [Importing Image Assets](#importing-image-assets)
+- [Changing Image Compression](#changing-image-compression)
+- [Drag to Stage](#drag-to-stage)
+- [Fill in Frame Label](#fill-in-frame-labels)
+- [Validate and Compile](#validate-and-compile)
+- [Generate a Gallery](#generate-a-gallery)
 
 ## Requirements
 
@@ -35,13 +35,13 @@ The directory structure is as follows starting from the Data/Interface/Exported/
 └───races
 ```
 
-* classes contain icons for NPC classes(e.g Warrior, Thief, Mage). Please see the class guide on what available labels are allowed and how an npcs class is determined.
-* default contains generic icons (e.g. Summon timers, Difficulty indicators, unknown actor icons)
-* factions contains NPC faction icons( E.g. Dawnguard, Bandits, Blades)
-* keywords contain NPC keyword icons. (E.g ActorTypeGhost, ActorTypeGiant) These support overrides but not extending(You cannot add a keyword thats not present)
-* npcs is self explanatory.
-* player icons is subdivided into 3 folders. Female icons only appear for when the PC is female. Male appears when the PC is male. Generic appears in both cases.
-* races is for an npc's race.
+* Classes contain icons for NPC classes(e.g Warrior, Thief, Mage). Please see the class guide on what available labels are allowed and how an npcs class is determined.
+* Default contains generic icons (e.g. Summon timers, Difficulty indicators, unknown actor icons)
+* Factions contains NPC faction icons( E.g. Dawnguard, Bandits, Blades)
+* Keywords contain NPC keyword icons. (E.g ActorTypeGhost, ActorTypeGiant) These support overrides but not extending(You cannot add a keyword thats not present)
+* Npcs is self explanatory.
+* Player icons are subdivided into 3 folders. Female icons only appear for when the PC is female. Male appears when the PC is male. Generic appears in both cases.
+* Races are for an npc's race.
 
 - All icon packs require .ini and .swf files. These file pairs must have matching names or they will be ignored.
 - Labels in the ini must match the frame labels in the swf (order does not matter.) Any mistakes will result in icons continously looping or showing up blank.
@@ -50,7 +50,8 @@ The directory structure is as follows starting from the Data/Interface/Exported/
 ## Importing Image Assets
 
 1. Grab the cps_icons_template.fla file from the resources directory. This file comes with frames and labels set up so that users only have to drag/drop images and fill in frame names.
-2. Preprep the icons you want to use and download/store them in one folder. At this point, your icons should already be resized hopefully to 75 x 75. I recommend naming them the same as their frame label.
+2. Pre prep the icons you want to use and download/store them in one folder. At this point, your icons should already be resized hopefully to 75 x 75. I recommend naming them the same as their frame label.
+This is because if you wish to change them in the future, you can import icons with the same name and override them with out having to touch the stage.
 3. Open the template file in CS6.
 4. Under File->Import, select Import to Library. Select all the images that you wish to use and hit ok.
 ![Import Screenshot](images/StepImport.png)
@@ -67,8 +68,8 @@ The directory structure is as follows starting from the Data/Interface/Exported/
 ## Fill in Frame Label(s)
 
 8. On the labels layer select an empty frame insert a name for the frame in the properties window. Once you do this you should see a redflag.
-- If making a race pack the name should be the editorId of the race.
-- If making a npc pack, the name should be the FULL name of the npc. You can get this in game from the console or in xEdit or one of the skyrim wikis.
+- If making a race pack the name should be the EditorId of the race.
+- If making an npc pack, the name should be the FULL name of the npc. You can get this in game from the console or in xEdit or one of the skyrim wikis.
 - If making a faction pack, the name should be the FULL name of the faction in xedit. If the FULL name is empty and it is from one of the vanilla masters, then use the form id instead(e.g 0x1234567)
 - If making a player pack, name it something unique. Preferable follow the preexisting naming convention <RaceType>(#) eg. DarkElfSeducer01
 - Class/Keyword packs currently do not support adding new unique labels. You must use one of the allowed class labels. Please see the <class guide>/<keyword_guide> on what is allowed.
@@ -76,7 +77,8 @@ The directory structure is as follows starting from the Data/Interface/Exported/
 ![FrameFill Screenshot](images/StepFillFrame.png)
 
 ## Drag to Stage
-9. Select the frame on icons layer(in the timeline) under the frame where you added the named label. On this frame drag your icon to the left hand corner(position 0,0)
+9. Select the frame on icons layer(in the timeline) under the frame where you added the named label. On this frame drag your icon to the left hand corner(position 0,0). Alternatively, you can drag it
+onto the canvas and set x, y to 0,0 in the properties window.
 
 ![Drag Screenshot](images/StepDragOrigin.png)
 10. Repeat steps 8 and 9 for all icons you wish to add.(Go to the next empty frame and repeat the process). Make sure that you add these labels to an ini of the same name as your custom swf. I would recommend having all your labels prepared ahead of time.(Making the ini first)
@@ -89,23 +91,25 @@ The directory structure is as follows starting from the Data/Interface/Exported/
 12. Compile the file. alt shift + f12 and make sure there are no errors. Name your file something unique so as to not override the ones provided here unless you
 are making a replacer.
 
+![Compile Screenshot](images/StepCompile.png)
+
 13. Create the ini if you havent done so already. Add a line entry with the name of every frame label you created. The ini should have the same name as your compiled swf.
 
 14. Move the swf and ini to the appropriate directory to test.
 
-Classes go to Data/Interface/Exported/cps/classes
-Keywords go to Data/Interface/Exported/cps/keywords
-Races go to Data/interface/Exported/cps/races.
-Factions go to Data/Interface/Exported/cps/factions.
-Npcs go to Data/interface/Exported/cps/npcs
-Female players goes to Data/Interface/Exported/cps/player/female
-Male players goes to Data/Interface/Exported/cps/player/male
-Gender agnostic goes to Data/Interface/Exported/cps/player/generic(gender agnostic), player/male, player/female
+- Classes         -> Data/Interface/Exported/cps/classes
+- Keywords        -> Data/Interface/Exported/cps/keywords
+- Races           -> Data/interface/Exported/cps/races.
+- Factions        -> Data/Interface/Exported/cps/factions.
+- Npcs            -> Data/interface/Exported/cps/npcs
+- Female player   -> Data/Interface/Exported/cps/player/female
+- Male player     -> Data/Interface/Exported/cps/player/male
+- Gender agnostic -> Data/Interface/Exported/cps/player/generic
 
 15. Test in game. If you have loops or blanks, see the troubleshooting guide on the main page.
 If you have questions about anything that needs elaboration or tips on how to improve this guide please post in the comments section of this article.
 
-![Compile Screenshot](images/StepCompile.png)
+
 
 ## Generate a Gallery (Optional)
 
