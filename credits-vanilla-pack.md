@@ -12,9 +12,9 @@
 - [Races](#races)
 
 ## Attribution
-All fandom links fall under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). This includes the static.wikia links(All from fandom)
-UESP links fall under [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/)
-All deviant art links require crediting [Tokami fuko](https://www.deviantart.com/tokami-fuko)
+- Fandom links fall under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). This includes the static.wikia links(All from fandom)
+- UESP links fall under [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/)
+- All deviant art links require crediting [Tokami fuko](https://www.deviantart.com/tokami-fuko)
 
 
 ## CLASSES
