@@ -14,8 +14,6 @@
 1. Adobe Flash CS6
 2. Python 37+, Pip3 19+(Optional. Used for creating galleries)
 
-![Profile Screenshot](images/profile.png)
-
 ## Organization and Labels
 
 1. Icons follow a specific directory structure. Failure to follow this structure can result in icons not loading or being loaded in the wrong category.
@@ -151,7 +149,8 @@ optional arguments:
 ```
 
 ```shell
-python generate_image_gallery.py --files_path ../../assets/vanilla/classes/zoomed/ --height_out 1080 --width_out 1920 --sub_width 75 --sub_height 75 --width_buffer 60 --height_buffer 40 --strip_pattern Class --outfile ../../dist/vanilla_class_out.png
+python generate_image_gallery.py --files_path <MY_PATH>--height_out 1080 --width_out 1920 --sub_width 75 --sub_height 75 --width_buffer 60 --height_buffer 40 --strip_pattern Class --outfile <MY_GALLERY>
 Successfully wrote ../../dist/vanilla_class_out.png
 ```
+Substitute MY_PATH and MY_GALLERY for the path to the directory of your images and the output of the file. 
 Thats it! All done. Upload your files and optionally gallery to the nexus and share it with us all :pray:.
