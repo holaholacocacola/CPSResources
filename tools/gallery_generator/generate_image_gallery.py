@@ -11,7 +11,7 @@ FONT_TYPE = 'arial.ttf'
 
 """
 Example usage:
-python generator.py --files_path ../../assets/vanilla/classes/zoomed/ --height_out 1080 --width_out 1920 --sub_width 75 --sub_height 75 --width_buffer 60 --height_buffer 40 --strip_pattern Class --outfile ../../dist/vanilla_class_out.png
+python generate_image_gallery.py --files_path ../../assets/vanilla/classes/zoomed/ --height_out 1080 --width_out 1920 --sub_width 75 --sub_height 75 --width_buffer 60 --height_buffer 40 --strip_pattern Class --outfile ../../dist/vanilla_class_out.png
 
 """
 
