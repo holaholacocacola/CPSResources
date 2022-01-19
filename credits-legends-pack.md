@@ -83,6 +83,7 @@ UESP links fall under [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/)
 
 - default enemy   : https://elderscrolls.fandom.com/wiki/Horned_Helm
 - default_follower: https://elderscrolls.fandom.com/wiki/Trusty_Sword
+- default_summon  : https://www.deviantart.com/jacks22587/art/Skyrim-Conjuration-Wallpaper-393044410
 
 
 ## Factions
