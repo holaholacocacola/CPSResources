@@ -24,7 +24,7 @@ If you are an end user you do not need to download this repo. Grab an archive fr
 ## Extending
 
 Please read the [creating-an-icon-pack](docs/creating-an-icon-pack.md) for a tutorial on how to create/override icon packs.
-If you merely wish to replace icons please view the [quick-replacer-guide](docs/quick-replacer-md) for a tutorial on how to quickly replace icons.
+If you merely wish to replace icons please view the [quick-replacer-guide](docs/quick-icon-replacement.md) for a tutorial on how to quickly replace icons.
 
 ## Credits
 All assets are modified pictures from free to use sources available on the web and fall under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/), and or require no attribution. Exact credits and links can be found in the individual credit files.
