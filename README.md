@@ -1,5 +1,5 @@
 ﻿# CPS Icon Resources
-Repository for Skyrim Combat Parameters Series Icons
+Repository for Skyrim Combat Parameters Series Icons.
 If you are an end user you do not need to download this repo. Grab an archive from the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/57114?) and go about your day.
 
 
