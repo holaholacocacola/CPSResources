@@ -27,9 +27,9 @@ Please read the [creating-an-icon-pack](docs/creating-an-icon-pack.md) for a tut
 If you merely wish to replace icons please view the [quick-replacer-guide](docs/quick-icon-replacement.md) for a tutorial on how to quickly replace icons.
 
 ## Credits
-All assets are modified pictures from free to use sources available on the web and fall under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/), and or require no attribution. Exact credits and links can be found in the individual credit files.
+All assets are modified pictures from free to use sources available on the web and fall under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/), or require no attribution. Exact credits and links can be found in the individual credit files.
 If using any assets from the asset folder in this repo you must:
-1. Include attribution || source for the origin of the file. You can get a direct link in the appropriate credits file.
+1. Include attribution || source for the origin of the file. You can get a direct link in the appropriate credits file. Each credits file will tell you which domains require which type of attribution.
 2. Indicate it is modified and a link to this repository of the modified source.
 
 - [Game-Icons.Net Pack Credits](credits-game-icons.md)
