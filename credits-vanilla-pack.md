@@ -148,77 +148,77 @@
 - Bilgemuck              : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/5f/Bristleback.png/revision/latest?cb=20130311230706
 - Borgakh the Steel Heart: https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/80/Borgakh.png/revision/latest?cb=20120211150911
 - Brelyna Maryon         : https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/90/BrelynaMaryon.png/revision/latest?cb=20120317151801
-- Brother Verulus        :
-- Brynjolf               :
-- Bujold the Intrepid    :
+- Brother Verulus        : https://static.wikia.nocookie.net/skyrim_gamepedia/images/f/fb/BrotherVerulus.png/revision/latest?cb=20120517175023
+- Brynjolf               : https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/d1/Brynjolf.png/revision/latest/scale-to-width-down/399?cb=20120211164242
+- Bujold the Intrepid    : https://static.wikia.nocookie.net/elderscrolls/images/f/f6/Bujold.png/revision/latest/scale-to-width-down/600?cb=20130207213526
 - Calder                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/91/Calder.png/revision/latest?cb=20120210174804
 - Celann                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/e/e6/Celann.png/revision/latest?cb=20120816205219
 - Cosnach                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/e/eb/Cosnach.png/revision/latest?cb=20120211151244
 - CuSith                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/72/CuSith.png/revision/latest?cb=20120810173003
 - Derkeethus             : https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/0b/Derkeethus.png/revision/latest?cb=20120211140910
 - Durak                  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/57/Durak.png/revision/latest?cb=20120816203910
-- Enmon                  :
+- Enmon                  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/e/e3/Enmon.png/revision/latest/scale-to-width-down/387?cb=20120404213034
 - Eola                   : https://static.wikia.nocookie.net/skyrim_gamepedia/images/f/fc/Eola.png/revision/latest?cb=20120211150352
 - Erandur                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/91/Erandur.png/revision/latest?cb=20120517110922
 - Erik the Slayer        : https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/82/EriktheSlayer.png/revision/latest?cb=20120211174812
 - Faendal                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/8c/Faendal.png/revision/latest?cb=20120209214413
 - Farkas                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/4/4d/Farkas.png/revision/latest?cb=20120615141546
-- Fenrig                 :
-- Fjotra                 :
-- Galmar Stone-Fist      :
+- Fenrig                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/5b/Fenrig.png/revision/latest/scale-to-width-down/382?cb=20120620194108
+- Fjotra                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/31/Fjotra.png/revision/latest/scale-to-width-down/375?cb=20120612202805
+- Galmar Stone-Fist      : https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/80/GalmarStone-Fist.png/revision/latest/scale-to-width-down/380?cb=20120322191232
 - Garmr                  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/7d/Garmr.png/revision/latest?cb=20120810173340
-- Geirlund               :
+- Geirlund               : https://static.wikia.nocookie.net/elderscrolls/images/3/3d/TESV_NPC_Geirlund.png/revision/latest/scale-to-width-down/607?cb=20120513111742
 - Ghorbash the Iron Hand : https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/38/Ghorbash.png/revision/latest?cb=20120217144515
-- Gleda the Goat         :
+- Gleda the Goat         : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/52/Goat.png/revision/latest?cb=20120209210836
 - Gregor                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/2/28/Gregor.png/revision/latest?cb=20121108214427
-- Golldir                :
-- Hadvar                 :
+- Golldir                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/77/Golldir.png/revision/latest/scale-to-width-down/432?cb=20120211171049
+- Hadvar                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/f/f1/Hadvar.png/revision/latest/scale-to-width-down/419?cb=20120323134509
 - Illia                  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/1/1a/Illia.png/revision/latest?cb=20120612184050
 - Ingjard                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/51/Ingjard.png/revision/latest?cb=20120816205709
 - Iona                   : https://static.wikia.nocookie.net/skyrim_gamepedia/images/e/eb/Iona.png/revision/latest?cb=20120210172540
 - J'zargo                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/5d/Jzargo.png/revision/latest?cb=20120614172406
 - Jenassa                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/d0/Jenassa.png/revision/latest?cb=20120209195527
 - Jordis the Sword-Maiden: https://static.wikia.nocookie.net/skyrim_gamepedia/images/6/6b/Jordis.png/revision/latest?cb=20120210173132
-- Karliah                :
-- Katria                 :
+- Karliah                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/90/Karliah.png/revision/latest/scale-to-width-down/452?cb=20120209192514
+- Katria                 : https://static.wikia.nocookie.net/elderscrolls/images/a/a9/Katria.png/revision/latest/scale-to-width-down/600?cb=20121018000349
 - Kharjo                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/91/Kharjo.png/revision/latest?cb=20120211140538
-- Legate Rikke           :
+- Legate Rikke           : https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/dd/LegateRikke.png/revision/latest/scale-to-width-down/433?cb=20120304131948
 - Lob                    : https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/08/Lob.png/revision/latest?cb=20120211180029
 - Lydia                  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/dc/Lydia.png/revision/latest?cb=20120215122343
-- Malborn                :
+- Malborn                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/0d/Malborn.png/revision/latest/scale-to-width-down/381?cb=20120209213011
 - Marcurio               : https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/d4/Marcurio.png/revision/latest?cb=20120211145304
-- Maurice Jondrelle      : 
-- Medresi Dran           :
-- Melka                  :
-- Mercer Frey            :
+- Maurice Jondrelle      : https://static.wikia.nocookie.net/skyrim_gamepedia/images/2/24/MauriceJondrelle.png/revision/latest/scale-to-width-down/394?cb=20120209160656
+- Medresi Dran           : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/5d/MedresiDran.png/revision/latest/scale-to-width-down/376?cb=20120611181257
+- Melka                  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/36/Hagraven.png/revision/latest/scale-to-width-down/582?cb=20120303125846
+- Mercer Frey            : https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/01/MercerFrey.png/revision/latest/scale-to-width-down/448?cb=20120610124520
 - Mjoll the Lioness      : https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/84/MjolltheLioness.png/revision/latest?cb=20120211180656
-- Neloth                 : 
+- Neloth                 : https://images.uesp.net/thumb/f/f8/SR-npc-Neloth2.jpg/600px-SR-npc-Neloth2.jpg
 - Njada Stonearm         : https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/74/NjadaStonearm.png/revision/latest?cb=20120211181130
 - Ogol                   : https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/87/Ogol.png/revision/latest?cb=20120509164303
 - Onmund                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/1/1a/Onmund.png/revision/latest?cb=20120212124959
-- Othorn                 :
+- Othorn                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/f/fb/Orthorn.png/revision/latest/scale-to-width-down/394?cb=20120210211954
 - Rayya                  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/78/Rayya.png/revision/latest?cb=20121108214726
-- Ralof                  :
+- Ralof                  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/6/62/Ralof.png/revision/latest/scale-to-width-down/406?cb=20120226181259
 - Ria                    : https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/81/Ria.png/revision/latest?cb=20120212132420
 - Roggi Knot-Beard       : https://static.wikia.nocookie.net/skyrim_gamepedia/images/4/41/RoggiKnot-Beard.png/revision/latest?cb=20120211181805
-- Selveni Nethri         :  
-- Sinding                :  
+- Selveni Nethri         : https://static.wikia.nocookie.net/skyrim_gamepedia/images/4/4f/SelveniNethri.png/revision/latest/scale-to-width-down/375?cb=20120618142027
+- Sinding                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/99/Sinding.png/revision/latest/scale-to-width-down/388?cb=20120323140332
 - Stenvar                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/99/Stenvar.png/revision/latest?cb=20120211175216
 - Sven                   : https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/dd/Sven.png/revision/latest?cb=20120212140451
 - Talvas Fathryon        : https://elderscrolls.fandom.com/wiki/Talvas_Fathryon
-- Telrav                 :
-- Tharstan               : 
-- Thonnir                :
-- Thorald Gray-Mane      : 
-- Tolfdir                : 
+- Telrav                 : https://static.wikia.nocookie.net/elderscrolls/images/c/c3/Telrav.png/revision/latest/scale-to-width-down/600?cb=20121114232829
+- Tharstan               : https://static.wikia.nocookie.net/elderscrolls/images/a/a0/Tharstan.png/revision/latest/scale-to-width-down/600?cb=20130206215910
+- Thonnir                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/57/Thonnir.png/revision/latest/scale-to-width-down/406?cb=20120419210701
+- Thorald Gray-Mane      : https://static.wikia.nocookie.net/skyrim_gamepedia/images/2/2b/ThoraldGray-Mane.png/revision/latest/scale-to-width-down/425?cb=20120323120048
+- Tolfdir                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/7c/Tolfdir.png/revision/latest/scale-to-width-down/398?cb=20120405174132
 - Torvar                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/b7/Torvar.png/revision/latest?cb=20120211182151
 - Ugor                   : https://skyrim.fandom.com/wiki/Ugor
 - Uthgerd the Unbroken   : https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/8f/Uthgerd.png/revision/latest?cb=20120210175206
 - Valdimar               : https://static.wikia.nocookie.net/skyrim_gamepedia/images/6/66/Valdimar.png/revision/latest?cb=20121108214726
-- Valdr                  :
-- Valdar                 :
-- Veezara                : 
-- Vidrald                :
+- Valdr                  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/7d/Valdr.png/revision/latest/scale-to-width-down/433?cb=20120509170328
+- Valdar                 : https://images.uesp.net/thumb/3/32/SR-npc-Valdar.jpg/600px-SR-npc-Valdar.jpg
+- Veezara                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/7a/Veezara.png/revision/latest/scale-to-width-down/426?cb=20120207213413
+- Vidrald                : https://static.wikia.nocookie.net/elderscrolls/images/0/01/TESV_NPC_Vidrald.png/revision/latest/scale-to-width-down/872?cb=20120513111843
 - Vigilance              : https://skyrim.fandom.com/wiki/Vigilance
 - Vilkas                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/2/29/Vilkas.png/revision/latest?cb=20120210170047
 - Vorstag                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/f/fa/Vorstag.png/revision/latest?cb=20120211175538
