@@ -147,45 +147,80 @@ UESP links fall under [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/)
 - Aranea Ienith          : https://elderscrolls.fandom.com/wiki/Alfe_Fyr_(Legends)
 - Argis the Bulwark      : https://elderscrolls.fandom.com/wiki/Jorunn%27s_Vanguard
 - Athis                  : https://elderscrolls.fandom.com/wiki/Brutal_Ashlander
+- Avulstein Gray-Mane    :
+- Bilgemuck              :
 - Beleval                : https://elderscrolls.fandom.com/wiki/Valenwood_Sentry
 - Benor                  : https://elderscrolls.fandom.com/wiki/Morthal_Watchman
 - Borgakh the Steel Heart: https://elderscrolls.fandom.com/wiki/High_Rock_Stalwart
 - Brelyna Maryon         : https://elderscrolls.fandom.com/wiki/Cunning_Ally
+- Brother Verulus        :
+- Brynjolf               :
+- Bujold the Intrepid    :
 - Calder                 : https://elderscrolls.fandom.com/wiki/Fearless_Northlander
 - Celann                 : https://elderscrolls.fandom.com/wiki/Corsair_(Legends)
 - Derkeethus             : https://elderscrolls.fandom.com/wiki/Argonian_Recruit
 - Durak                  : https://elderscrolls.fandom.com/wiki/Militant_Chieftain
+- Enmon                  :
 - Eola                   : https://elderscrolls.fandom.com/wiki/Expert_Atromancer
 - Erandur                : https://elderscrolls.fandom.com/wiki/Tel_Vos_Magister
 - Erik the Slayer        : https://elderscrolls.fandom.com/wiki/Stormcloak_Avenger
 - Faendal                : https://elderscrolls.fandom.com/wiki/Woodland_Lookout
 - Familiar               : https://elderscrolls.fandom.com/wiki/Familiar_(Legends)
+- Fenrig                 :
 - Farkas                 : https://elderscrolls.fandom.com/wiki/Grim_Shield-Brother
+- Fjotra                 :
 - Frea                   : https://elderscrolls.fandom.com/wiki/File:Recruit_(Nord)_card_art.png
+- Galmar Stone-Fist      :
+- Geirlund               :
 - Ghorbash the Iron Hand : https://elderscrolls.fandom.com/wiki/Bangkorai_Butcher
+- Gleda the Goat         :
+- Golldir                :
 - Gregor                 : https://elderscrolls.fandom.com/wiki/Mercenary_Captain
+- Hadvar                 :
 - Illia                  : https://elderscrolls.fandom.com/wiki/Empire_Dreadmage
 - Ingjard                : https://elderscrolls.fandom.com/wiki/File:Nord_avatar_2_(Legends).png
 - Iona                   : https://elderscrolls.fandom.com/wiki/Guildsworn_Incendiary
 - J'zargo                : https://elderscrolls.fandom.com/wiki/Experimental_Scroll
 - Jenassa                : https://elderscrolls.fandom.com/wiki/Ashlander_Punisher
 - Jordis the Sword-Maiden: https://elderscrolls.fandom.com/wiki/Relentless_Raider
+- Karliah                :
+- Katria                 :
 - Kharjo                 : https://elderscrolls.fandom.com/wiki/Caravan_Enforcer
+- Legate Rikke           :
 - Lydia                  : https://elderscrolls.fandom.com/wiki/Loyal_Housecarl
+- Malborn                :
 - Marcurio               : https://elderscrolls.fandom.com/wiki/Wind_Keep_Spellsword
+- Maurice Jondrelle      :
+- Medresi Dran           :
+- Melka                  :
+- Mercer Frey            :
 - Mjoll the Lioness      : https://elderscrolls.fandom.com/wiki/Blades_Flanker
+- Neloth                 :
 - Njada Stonearm         : https://elderscrolls.fandom.com/wiki/Aela%27s_Huntmate
 - Ogol                   : https://elderscrolls.fandom.com/wiki/Trouble_Seeker
 - Onmund                 : https://elderscrolls.fandom.com/wiki/Manic_Jack
+- Othorn                 :
+- Ralof                  :
 - Rayya                  : https://elderscrolls.fandom.com/wiki/File:Redguard_avatar_1_(Legends).png
 - Ria                    : https://elderscrolls.fandom.com/wiki/Graceful_Myrmidon
+- Selveni Nethri         :
 - Serana                 : https://cdn.donmai.us/original/1e/f0/1ef030dbdd88a8d4baa4359b72074c2d.jpg
+- Sinding                :
 - Stenvar                : https://elderscrolls.fandom.com/wiki/Mighty_Ally
 - Talvas Fathryon        : https://elderscrolls.fandom.com/wiki/Renegade_Magister
+- Telrav                 :
+- Tharstan               :
+- Thonnir                :
+- Thorald Gray-Mane      :
+- Tolfdir                :
 - Torvar                 : https://elderscrolls.fandom.com/wiki/Desperate_Captive
 - Teldryn Sero           : https://elderscrolls.fandom.com/wiki/Temple_Conjurer
 - Ugor                   : https://elderscrolls.fandom.com/wiki/Dushnikh_Yal_Archer
 - Uthgerd the Unbroken   : https://elderscrolls.fandom.com/wiki/Initiate_of_Hircine
+- Valdr                  :
+- Valdar                 :
+- Veezara                :
+- Vidrald                :
 - Vilkas                 : https://elderscrolls.fandom.com/wiki/Grim_Shield-Brother
 	
 
