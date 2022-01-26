@@ -56,7 +56,7 @@
 
 ## 1.1.0
 
-### Bug FIxes
+### Bug Fixes
 - Fixed DragonPriest offset in legends
 
 ## 1.0.0
