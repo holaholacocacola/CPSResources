@@ -147,45 +147,82 @@ UESP links fall under [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/)
 - Aranea Ienith          : https://elderscrolls.fandom.com/wiki/Alfe_Fyr_(Legends)
 - Argis the Bulwark      : https://elderscrolls.fandom.com/wiki/Jorunn%27s_Vanguard
 - Athis                  : https://elderscrolls.fandom.com/wiki/Brutal_Ashlander
+- Avulstein Gray-Mane    : https://static.wikia.nocookie.net/elderscrolls/images/5/5e/Nord_avatar_bob_1_%28Legends%29.png/revision/latest/scale-to-width-down/512?cb=20180128132139
+- Bilgemuck              : https://static.wikia.nocookie.net/elderscrolls/images/d/d2/Tusked_Bristleback_card_art.png/revision/latest/scale-to-width-down/343?cb=20180208110521
 - Beleval                : https://elderscrolls.fandom.com/wiki/Valenwood_Sentry
 - Benor                  : https://elderscrolls.fandom.com/wiki/Morthal_Watchman
 - Borgakh the Steel Heart: https://elderscrolls.fandom.com/wiki/High_Rock_Stalwart
 - Brelyna Maryon         : https://elderscrolls.fandom.com/wiki/Cunning_Ally
+- Brother Verulus        : https://static.wikia.nocookie.net/elderscrolls/images/4/4e/Cleric_of_Kyne_card_art.png/revision/latest/scale-to-width-down/512?cb=20180131111240
+- Brynjolf               : https://static.wikia.nocookie.net/elderscrolls/images/c/ce/Brynjolf_%28Legends%29_card_art.png/revision/latest/scale-to-width-down/512?cb=20180122110844
+- Bujold the Intrepid    : https://static.wikia.nocookie.net/elderscrolls/images/4/4f/Markarth_Bannerman_card_art.png/revision/latest/scale-to-width-down/311?cb=20180216193339
 - Calder                 : https://elderscrolls.fandom.com/wiki/Fearless_Northlander
 - Celann                 : https://elderscrolls.fandom.com/wiki/Corsair_(Legends)
+- Delphine               : https://elderscrolls.fandom.com/wiki/Grandmaster_Delphine?file=Grandmaster_Delphine_card_art.png
 - Derkeethus             : https://elderscrolls.fandom.com/wiki/Argonian_Recruit
 - Durak                  : https://elderscrolls.fandom.com/wiki/Militant_Chieftain
+- Enmon                  : https://static.wikia.nocookie.net/elderscrolls/images/a/a2/Night_Patrol_card_art.png/revision/latest/scale-to-width-down/342?cb=20180215135126
 - Eola                   : https://elderscrolls.fandom.com/wiki/Expert_Atromancer
 - Erandur                : https://elderscrolls.fandom.com/wiki/Tel_Vos_Magister
 - Erik the Slayer        : https://elderscrolls.fandom.com/wiki/Stormcloak_Avenger
+- Esbern                 : https://elderscrolls.fandom.com/wiki/Jauffre_(Legends)?file=Jauffre_Art.png
 - Faendal                : https://elderscrolls.fandom.com/wiki/Woodland_Lookout
 - Familiar               : https://elderscrolls.fandom.com/wiki/Familiar_(Legends)
+- Fenrig                 : https://static.wikia.nocookie.net/elderscrolls/images/1/18/Daggerfall_Phantom_card_art.png/revision/latest/scale-to-width-down/1000?cb=20190629105259
 - Farkas                 : https://elderscrolls.fandom.com/wiki/Grim_Shield-Brother
+- Fjotra                 :
 - Frea                   : https://elderscrolls.fandom.com/wiki/File:Recruit_(Nord)_card_art.png
+- Galmar Stone-Fist      : https://static.wikia.nocookie.net/elderscrolls/images/a/ad/Ulfric%27s_Housecarl_card_art.png/revision/latest/scale-to-width-down/512?cb=20180120165504
+- Geirlund               : https://static.wikia.nocookie.net/elderscrolls/images/2/29/Midnight_Snack_card_art.png/revision/latest/scale-to-width-down/512?cb=20180131151018
 - Ghorbash the Iron Hand : https://elderscrolls.fandom.com/wiki/Bangkorai_Butcher
+- Gleda the Goat         : https://static.wikia.nocookie.net/elderscrolls/images/5/52/Goat.png/revision/latest/scale-to-width-down/600?cb=20170410095521
+- Golldir                : https://static.wikia.nocookie.net/elderscrolls/images/4/49/Solitude_Stalwart_card_art.png/revision/latest/scale-to-width-down/512?cb=20180126012324
 - Gregor                 : https://elderscrolls.fandom.com/wiki/Mercenary_Captain
+- Hadvar                 : https://static.wikia.nocookie.net/elderscrolls/images/d/db/Outland_Patrol_Art.png/revision/latest/scale-to-width-down/1000?cb=20191208115311
 - Illia                  : https://elderscrolls.fandom.com/wiki/Empire_Dreadmage
 - Ingjard                : https://elderscrolls.fandom.com/wiki/File:Nord_avatar_2_(Legends).png
 - Iona                   : https://elderscrolls.fandom.com/wiki/Guildsworn_Incendiary
 - J'zargo                : https://elderscrolls.fandom.com/wiki/Experimental_Scroll
 - Jenassa                : https://elderscrolls.fandom.com/wiki/Ashlander_Punisher
 - Jordis the Sword-Maiden: https://elderscrolls.fandom.com/wiki/Relentless_Raider
+- Karliah                : https://static.wikia.nocookie.net/vsbattles/images/3/3b/Karliah.jpg/revision/latest/scale-to-width-down/800?cb=20190519061824
+- Katria                 : https://static.wikia.nocookie.net/elderscrolls/images/d/df/Lydia_card_art.png/revision/latest/scale-to-width-down/512?cb=20180126005533
 - Kharjo                 : https://elderscrolls.fandom.com/wiki/Caravan_Enforcer
+- Legate Rikke           : https://elderscrolls.fandom.com/wiki/Legate_Rikke_(Legends)
 - Lydia                  : https://elderscrolls.fandom.com/wiki/Loyal_Housecarl
+- Malborn                : https://www.pinterest.com/pin/420382946454616729/
 - Marcurio               : https://elderscrolls.fandom.com/wiki/Wind_Keep_Spellsword
+- Maurice Jondrelle      : https://static.wikia.nocookie.net/elderscrolls/images/7/7f/Crassius%27_Favor_card_art.png/revision/latest/scale-to-width-down/512?cb=20181027192513
+- Medresi Dran           : https://static.wikia.nocookie.net/elderscrolls/images/0/0f/Awakened_Dreamer_card_art.png/revision/latest/scale-to-width-down/512?cb=20180901174029
+- Melka                  : https://static.wikia.nocookie.net/elderscrolls2/images/c/cd/Melka.png/revision/latest/scale-to-width-down/250?cb=20130202013123&path-prefix=de
+- Mercer Frey            : https://static.wikia.nocookie.net/elderscrolls/images/1/11/Bor_the_Beggar.png/revision/latest/scale-to-width-down/256?cb=20171109182854
 - Mjoll the Lioness      : https://elderscrolls.fandom.com/wiki/Blades_Flanker
+- Neloth                 : https://static.wikia.nocookie.net/elderscrolls/images/8/86/Mournhold_Pilgrim_card_art.png/revision/latest/scale-to-width-down/512?cb=20181028085830
 - Njada Stonearm         : https://elderscrolls.fandom.com/wiki/Aela%27s_Huntmate
 - Ogol                   : https://elderscrolls.fandom.com/wiki/Trouble_Seeker
 - Onmund                 : https://elderscrolls.fandom.com/wiki/Manic_Jack
+- Othorn                 : https://elderscrolls.fandom.com/wiki/Resolute_Ally?file=Resolute_Ally_card_art.png
+- Ralof                  : https://static.wikia.nocookie.net/elderscrolls/images/9/91/Rallying_Stormcloak_card_art.png/revision/latest/scale-to-width-down/512?cb=20180120165429
 - Rayya                  : https://elderscrolls.fandom.com/wiki/File:Redguard_avatar_1_(Legends).png
 - Ria                    : https://elderscrolls.fandom.com/wiki/Graceful_Myrmidon
+- Selveni Nethri         : https://static.wikia.nocookie.net/elderscrolls/images/f/ff/Redoran_Forerunner_card_art.png/revision/latest/scale-to-width-down/512?cb=20181028092641
 - Serana                 : https://cdn.donmai.us/original/1e/f0/1ef030dbdd88a8d4baa4359b72074c2d.jpg
+- Sinding                : https://static.wikia.nocookie.net/elderscrolls/images/c/cc/Child_of_Hircine_card_art.png/revision/latest/scale-to-width-down/306?cb=20180630104411
 - Stenvar                : https://elderscrolls.fandom.com/wiki/Mighty_Ally
 - Talvas Fathryon        : https://elderscrolls.fandom.com/wiki/Renegade_Magister
+- Telrav                 : https://static.wikia.nocookie.net/elderscrolls/images/0/08/Legends_-_Nibenese_Mercenary_%28Card_Art%29.png/revision/latest/scale-to-width-down/695?cb=20191227155804
+- Tharstan               : https://static.wikia.nocookie.net/elderscrolls/images/0/05/Abnur_Tharn_card_art.png/revision/latest/scale-to-width-down/1000?cb=20190629140913
+- Thonnir                :
+- Thorald Gray-Mane      : https://static.wikia.nocookie.net/elderscrolls/images/d/d0/Candlehearth_Brawler_avatar_%28Legends%29.png/revision/latest/scale-to-width-down/512?cb=20180124160251
+- Tolfdir                : https://static.wikia.nocookie.net/elderscrolls/images/f/fc/Tolfdir_avatar_%28Legends%29.png/revision/latest?cb=20171130162150
 - Torvar                 : https://elderscrolls.fandom.com/wiki/Desperate_Captive
 - Teldryn Sero           : https://elderscrolls.fandom.com/wiki/Temple_Conjurer
 - Ugor                   : https://elderscrolls.fandom.com/wiki/Dushnikh_Yal_Archer
 - Uthgerd the Unbroken   : https://elderscrolls.fandom.com/wiki/Initiate_of_Hircine
+- Valdr                  :
+- Valdar                 : https://static.wikia.nocookie.net/elderscrolls/images/1/18/Dragon_Cult_Ghost_card_art.png/revision/latest/scale-to-width-down/512?cb=20180131125713
+- Veezara                : https://static.wikia.nocookie.net/elderscrolls/images/6/6b/Shadowscale_Partisan_card_art.png/revision/latest/scale-to-width-down/512?cb=20180203112522
+- Vidrald                : https://static.wikia.nocookie.net/elderscrolls/images/7/70/Whiterun_Trooper_card_art.png/revision/latest/scale-to-width-down/512?cb=20180307144038
 - Vilkas                 : https://elderscrolls.fandom.com/wiki/Grim_Shield-Brother
 	
 
