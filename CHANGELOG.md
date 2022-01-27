@@ -8,6 +8,87 @@
 - Added Tools to auto generate files associated with a release. Moved archive format from .rar -> .zip(laziness)
 - Renamed summon_timer files -> actor_group_member_type. It now holds the hourglass icon in addition to the citizen icon.
 - Added citizen icon to actor_group_member_type
+- Added allied npc images to appropriate folder npc folder
+
+### Vanilla
+Added Images for the following NPCS
+- Avulstein Gray-Mane
+- Bilgemuck
+- Brother_Verulus
+- Brynjolf
+- Bujold the Intrepid
+- Delphine
+- Enmon
+- Esbern
+- Fenrig
+- Fjotra
+- Galmar Stone-Fist
+- Geirlund
+- Gleda the Goat
+- Golldir
+- Hadvar
+- Karliah
+- Katria
+- Legate Rikke
+- Malborn
+- Maurice Jondrelle
+- Medresi Dran
+- Melka
+- Mercer Frey
+- Neloth
+- Othorn
+- Ralof
+- Selveni Nethri
+- Sinding
+- Telrav
+- Tharstan
+- Thonnir
+- Thorald Gray-Mane
+- Tolfdir
+- Valdr
+- Valdar
+- Veezara
+- Vidrald	
+
+### Legends
+Added images for the following NPCS
+- Avulstein Gray-Mane
+- Bilgemuck
+- Brother_Verulus
+- Brynjolf
+- Bujold the Intrepid
+- Delphine
+- Enmon
+- Esbern
+- Fenrig
+- Fjotra
+- Galmar Stone-Fist
+- Geirlund
+- Gleda the Goat
+- Golldir
+- Hadvar
+- Karliah
+- Katria
+- Legate Rikke
+- Malborn
+- Maurice Jondrelle
+- Medresi Dran
+- Melka
+- Mercer Frey
+- Neloth
+- Othorn
+- Ralof
+- Selveni Nethri
+- Sinding
+- Telrav
+- Tharstan
+- Thonnir
+- Thorald Gray-Mane
+- Tolfdir
+- Valdr
+- Valdar
+- Veezara
+- Vidrald	
 
 ### Game-Icons
 - Added missing default folder files to game-icons pack
