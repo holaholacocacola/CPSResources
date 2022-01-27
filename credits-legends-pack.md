@@ -192,7 +192,7 @@ UESP links fall under [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/)
 - Lydia                  : https://elderscrolls.fandom.com/wiki/Loyal_Housecarl
 - Malborn                : https://www.pinterest.com/pin/420382946454616729/
 - Marcurio               : https://elderscrolls.fandom.com/wiki/Wind_Keep_Spellsword
-- Maurice Jondrelle      :
+- Maurice Jondrelle      : https://static.wikia.nocookie.net/elderscrolls/images/7/7f/Crassius%27_Favor_card_art.png/revision/latest/scale-to-width-down/512?cb=20181027192513
 - Medresi Dran           : https://static.wikia.nocookie.net/elderscrolls/images/0/0f/Awakened_Dreamer_card_art.png/revision/latest/scale-to-width-down/512?cb=20180901174029
 - Melka                  : https://static.wikia.nocookie.net/elderscrolls2/images/c/cd/Melka.png/revision/latest/scale-to-width-down/250?cb=20130202013123&path-prefix=de
 - Mercer Frey            : https://static.wikia.nocookie.net/elderscrolls/images/1/11/Bor_the_Beggar.png/revision/latest/scale-to-width-down/256?cb=20171109182854

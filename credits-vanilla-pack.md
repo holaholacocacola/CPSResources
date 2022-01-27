@@ -155,12 +155,14 @@
 - Celann                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/e/e6/Celann.png/revision/latest?cb=20120816205219
 - Cosnach                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/e/eb/Cosnach.png/revision/latest?cb=20120211151244
 - CuSith                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/72/CuSith.png/revision/latest?cb=20120810173003
+- Delphine               : https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/3f/Delphine_Blades.png/revision/latest?cb=20120405205708
 - Derkeethus             : https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/0b/Derkeethus.png/revision/latest?cb=20120211140910
 - Durak                  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/57/Durak.png/revision/latest?cb=20120816203910
 - Enmon                  : https://static.wikia.nocookie.net/skyrim_gamepedia/images/e/e3/Enmon.png/revision/latest/scale-to-width-down/387?cb=20120404213034
 - Eola                   : https://static.wikia.nocookie.net/skyrim_gamepedia/images/f/fc/Eola.png/revision/latest?cb=20120211150352
 - Erandur                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/91/Erandur.png/revision/latest?cb=20120517110922
 - Erik the Slayer        : https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/82/EriktheSlayer.png/revision/latest?cb=20120211174812
+- Esbern                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/6/6c/Esbern.png/revision/latest/scale-to-width-down/396?cb=20120208232020
 - Faendal                : https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/8c/Faendal.png/revision/latest?cb=20120209214413
 - Farkas                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/4/4d/Farkas.png/revision/latest?cb=20120615141546
 - Fenrig                 : https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/5b/Fenrig.png/revision/latest/scale-to-width-down/382?cb=20120620194108
