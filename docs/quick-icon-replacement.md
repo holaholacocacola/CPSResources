@@ -21,10 +21,10 @@ and instead replace their stage counterparts in place with our own.
 
 ## Importing Image Assets
 
-1. Grab the cps_icons_template.fla file from the resources directory. This file comes with frames and labels set up so that users only have to drag/drop images and fill in frame names.
-2. Pre prep the icons you want to use and download/store them in one folder. At this point, your icons should already be resized hopefully to 75 x 75. I recommend naming them the same as their frame label.
-This is because if you wish to change them in the future, you can import icons with the same name and override them with out having to touch the stage.
-3. Open the template file in CS6.
+1. Grab the resource file from the resources directory that has icons you want to replace.
+2. Pre prep the icons you want to use and download/store them in one folder. At this point, your icons should already be resized hopefully to 75 x 75. They must have the same name as the pre-existing file in the assets folder.
+This is because one you import and replace them, their instance(s) on the stage will automatically update and point to your replacements.
+3. Open the resource file in CS6.
 4. Under File->Import, select Import to Library. Select all the images that you wish to use and hit ok.
 ![Import Screenshot](images/StepImport.png)
 ![Import Screenshot2](images/StepImport2.png)
